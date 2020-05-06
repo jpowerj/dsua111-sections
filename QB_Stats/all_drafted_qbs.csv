@@ -1,0 +1,514 @@
+Rk,Year,Rnd,Pick,Player,Pos,DrAge,Tm,From,To,AP1,PB,St,CarAV,G,GS,QBrec,Cmp,Att,Yds,TD,Int,Rush_Att,Rush_Yds,Rush_TD,College/Univ,
+1,2019,1,1,Kyler Murray\MurrKy00,QB,22,ARI,2019,2019,0,0,1,14,16,16,5-10-1,349,542,3722,20,12,93,544,4,Oklahoma,College Stats
+2,2019,1,6,Daniel Jones\JoneDa05,QB,22,NYG,2019,2019,0,0,1,9,13,12,3-9-0,284,459,3027,24,12,45,279,2,Duke,College Stats
+3,2019,1,15,Dwayne Haskins\HaskDw00,QB,22,WAS,2019,2019,0,0,0,3,9,7,2-5-0,119,203,1365,7,7,20,101,0,Ohio St.,College Stats
+4,2019,2,42,Drew Lock\LockDr00,QB,22,DEN,2019,2019,0,0,0,3,5,5,4-1-0,100,156,1020,7,3,18,72,0,Missouri,College Stats
+5,2019,3,100,Will Grier\GrieWi00,QB,24,CAR,2019,2019,0,0,0,1,2,2,0-2-0,28,52,228,0,4,7,22,0,West Virginia,College Stats
+6,2019,4,104,Ryan Finley\FinlRy00,QB,24,CIN,2019,2019,0,0,0,1,3,3,0-3-0,41,87,474,2,2,10,77,0,North Carolina St.,College Stats
+7,2019,4,133,Jarrett Stidham\StidJa00,QB,23,NWE,2019,2019,0,0,0,0,3,0,,2,4,14,0,1,2,-2,0,Auburn,College Stats
+8,2019,6,178,Gardner Minshew\MinsGa00,QB,23,JAX,2019,2019,0,0,1,10,14,12,6-6-0,285,470,3271,21,6,67,344,0,Washington St.,College Stats
+9,2019,6,197,Trace McSorley\McSoTr00,QB,24,BAL,2019,2019,0,0,0,0,1,0,,,,,,,1,1,0,Penn St.,College Stats
+10,2018,1,1,Baker Mayfield\MayfBa00,QB,23,CLE,2018,2019,0,0,2,21,30,29,12-17-0,627,1020,7552,49,35,67,272,3,Oklahoma,College Stats
+11,2018,1,3,Sam Darnold\DarnSa00,QB,21,NYJ,2018,2019,0,0,2,13,26,26,11-15-0,512,855,5889,36,28,77,200,3,USC,College Stats
+12,2018,1,7,Josh Allen\AlleJo02,QB,22,BUF,2018,2019,0,0,2,17,28,27,15-12-0,440,781,5163,30,21,198,1141,17,Wyoming,College Stats
+13,2018,1,10,Josh Rosen\RoseJo01,QB,21,ARI,2018,2019,0,0,1,3,20,16,3-13-0,275,502,2845,12,19,26,151,0,UCLA,College Stats
+14,2018,1,32,Lamar Jackson\JackLa00,QB,21,BAL,2018,2019,1,1,1,33,31,22,19-3-0,364,571,4328,42,9,323,1901,12,Louisville,College Stats
+15,2018,3,76,Mason Rudolph\RudoMa00,QB,23,PIT,2019,2019,0,0,1,3,10,8,5-3-0,176,283,1765,13,9,21,42,0,Oklahoma St.,College Stats
+16,2018,4,108,Kyle Lauletta\LaulKy00,QB,23,NYG,2018,2018,0,0,0,0,2,0,,0,5,0,0,1,1,-2,0,Richmond,
+17,2018,5,171,Mike White\WhitMi01,QB,23,DAL,,,0,0,0,,,,,,,,,,,,,Western Kentucky,College Stats
+18,2018,6,199,Luke Falk\FalkLu00,QB,23,TEN,2019,2019,0,0,0,1,3,2,0-2-0,47,73,416,0,3,,,,Washington St.,College Stats
+19,2018,6,203,Tanner Lee\LeexTa00,QB,23,JAX,,,0,0,0,,,,,,,,,,,,,Nebraska,College Stats
+20,2018,7,219,Danny Etling\EtliDa00,QB,24,NWE,,,0,0,0,,,,,,,,,,,,,LSU,College Stats
+21,2018,7,220,Alex McGough\McGoAl00,QB,22,SEA,,,0,0,0,,,,,,,,,,,,,Florida International,College Stats
+22,2018,7,249,Logan Woodside\WoodLo00,QB,23,CIN,,,0,0,0,,,,,,,,,,,,,Toledo,College Stats
+23,2017,1,2,Mitchell Trubisky\TrubMi00,QB,23,CHI,2017,2019,0,1,3,27,41,41,23-18-0,811,1280,8554,48,29,157,862,7,North Carolina,College Stats
+24,2017,1,10,Patrick Mahomes\MahoPa00,QB,21,KAN,2017,2019,1,2,2,39,31,31,24-7-0,724,1099,9412,76,18,110,500,4,Texas Tech,College Stats
+25,2017,1,12,Deshaun Watson\WatsDe00,QB,21,HOU,2017,2019,0,2,2,38,38,37,24-13-0,804,1204,9716,71,29,217,1233,14,Clemson,College Stats
+26,2017,2,52,DeShone Kizer\KizeDe00,QB,21,CLE,2017,2018,0,0,1,6,18,15,0-15-0,275,518,3081,11,24,82,458,5,Notre Dame,College Stats
+27,2017,3,87,Davis Webb\WebbDa00,QB,22,NYG,,,0,0,0,,,,,,,,,,,,,California,College Stats
+28,2017,3,104,C.J. Beathard\BeatC.00,QB,23,SFO,2017,2018,0,0,0,7,13,10,1-9-0,225,393,2682,12,13,45,205,4,Iowa,College Stats
+29,2017,4,135,Joshua Dobbs\DobbJo00,QB,22,PIT,2018,2018,0,0,0,0,5,0,,6,12,43,0,1,4,11,0,Tennessee,College Stats
+30,2017,5,171,Nathan Peterman\PeteNa00,QB,23,BUF,2017,2018,0,0,0,2,8,4,1-3-0,68,130,548,3,12,17,73,1,Pittsburgh,College Stats
+31,2017,6,215,Brad Kaaya\KaayBr00,QB,22,DET,,,0,0,0,,,,,,,,,,,,,Miami (FL),College Stats
+32,2017,7,253,Chad Kelly\KellCh00,QB,23,DEN,2018,2018,0,0,0,0,1,0,,,,,,,1,-1,0,Mississippi,College Stats
+33,2016,1,1,Jared Goff\GoffJa00,QB,21,LAR,2016,2019,0,2,3,41,54,54,33-21-0,1166,1869,14219,87,42,112,215,6,California,College Stats
+34,2016,1,2,Carson Wentz\WentCa00,QB,23,PHI,2016,2019,0,1,4,42,56,56,32-24-0,1311,2055,14191,97,35,206,785,3,North Dakota St.,College Stats
+35,2016,1,26,Paxton Lynch\LyncPa00,QB,22,DEN,2016,2017,0,0,0,2,5,4,1-3-0,79,128,792,4,4,16,55,0,Memphis,College Stats
+36,2016,2,51,Christian Hackenberg\HackCh01,QB,21,NYJ,,,0,0,0,,,,,,,,,,,,,Penn St.,College Stats
+37,2016,3,91,Jacoby Brissett\BrisJa00,QB,23,NWE,2016,2019,0,0,2,23,38,32,12-20-0,584,975,6442,31,13,142,564,9,North Carolina St.,College Stats
+38,2016,3,93,Cody Kessler\KessCo00,QB,23,CLE,2016,2018,0,0,1,5,17,12,2-10-0,224,349,2215,8,5,31,140,0,USC,College Stats
+39,2016,4,100,Connor Cook\CookCo00,QB,23,OAK,2016,2016,0,0,0,0,1,0,,14,21,150,1,1,,,,Michigan St.,College Stats
+40,2016,4,135,Dak Prescott\PresDa01,QB,23,DAL,2016,2019,0,2,4,56,64,64,40-24-0,1363,2071,15778,97,36,241,1221,21,Mississippi St.,College Stats
+41,2016,4,139,Cardale Jones\JoneCa01,QB,23,BUF,2016,2016,0,0,0,0,1,0,,6,11,96,0,1,1,-1,0,Ohio St.,College Stats
+42,2016,5,162,Kevin Hogan\HogaKe00,QB,23,KAN,2016,2017,0,0,0,2,8,1,0-1-0,60,101,621,4,7,18,176,1,Stanford,College Stats
+43,2016,6,187,Nate Sudfeld\SudfNa00,QB,22,WAS,2017,2018,0,0,0,1,3,0,,20,25,156,1,0,3,20,0,Indiana,College Stats
+44,2016,6,191,Jake Rudock\RudoJa00,QB,23,DET,2017,2017,0,0,0,0,3,0,,3,5,24,0,1,,,,Michigan,College Stats
+45,2016,6,201,Brandon Allen\AlleBr00,QB,24,JAX,2019,2019,0,0,0,2,3,3,1-2-0,39,84,515,3,2,10,39,0,Arkansas,College Stats
+46,2016,6,207,Jeff Driskel\DrisJe00,QB,23,SFO,2018,2019,0,0,0,5,12,8,1-7-0,167,281,1688,10,6,47,281,3,Louisiana Tech,College Stats
+47,2015,1,1,Jameis Winston\WinsJa00,QB,21,TAM,2015,2019,0,1,5,54,72,70,28-42-0,1563,2548,19737,121,88,248,1044,10,Florida St.,College Stats
+48,2015,1,2,Marcus Mariota\MariMa01,QB,21,TEN,2015,2019,0,0,4,44,63,61,29-32-0,1110,1765,13207,76,44,242,1399,11,Oregon,College Stats
+49,2015,3,75,Garrett Grayson\GrayGa00,QB,24,NOR,2015,2015,0,0,0,0,1,0,,,,,,,,,,Colorado St.,College Stats
+50,2015,3,89,Sean Mannion\MannSe00,QB,23,STL,2015,2019,0,0,0,1,13,2,0-2-0,45,74,384,0,3,23,-17,0,Oregon St.,College Stats
+51,2015,4,103,Bryce Petty\PettBr01,QB,24,NYJ,2016,2017,0,0,0,4,10,7,1-6-0,130,245,1353,4,10,12,74,0,Baylor,College Stats
+52,2015,5,147,Brett Hundley\HundBr00,QB,22,GNB,2016,2019,0,0,1,5,18,9,3-6-0,199,337,1902,9,13,46,309,2,UCLA,College Stats
+53,2015,7,250,Trevor Siemian\SiemTr00,QB,23,DEN,2015,2019,0,0,2,13,27,25,13-12-0,498,841,5689,30,24,60,183,1,Northwestern,College Stats
+54,2014,1,3,Blake Bortles\BortBl00,QB,22,JAX,2014,2019,0,0,5,44,78,73,24-49-0,1562,2634,17649,103,75,283,1766,8,Central Florida,College Stats
+55,2014,1,22,Johnny Manziel\ManzJo00,QB,21,CLE,2014,2015,0,0,0,5,15,8,2-6-0,147,258,1675,7,7,46,259,1,Texas A&M,College Stats
+56,2014,1,32,Teddy Bridgewater\BridTe00,QB,21,MIN,2014,2019,0,1,2,27,44,34,22-12-0,698,1070,7652,38,25,133,434,4,Louisville,College Stats
+57,2014,2,36,Derek Carr\CarrDe02,QB,23,OAK,2014,2019,0,3,6,55,94,94,39-55-0,2120,3313,22793,143,62,175,495,3,Fresno St.,College Stats
+58,2014,2,62,Jimmy Garoppolo\GaroJi00,QB,22,NWE,2014,2019,0,0,1,24,42,26,21-5-0,565,837,6946,44,21,94,116,2,East. Illinois,
+59,2014,4,120,Logan Thomas\ThomLo00,QB,23,ARI,2014,2019,0,0,0,3,42,8,,2,10,96,1,0,,,,Virginia Tech,College Stats
+60,2014,4,135,Tom Savage\SavaTo00,QB,24,HOU,2014,2017,0,0,1,4,13,9,2-7-0,181,315,2000,5,7,16,8,0,Pittsburgh,College Stats
+61,2014,5,163,Aaron Murray\MurrAa00,QB,23,KAN,2014,2014,0,0,0,0,0,,,,,,,,,,,Georgia,College Stats
+62,2014,5,164,A.J. McCarron\McCaA.00,QB,23,CIN,2014,2019,0,0,0,4,15,4,2-2-0,108,173,1153,6,3,22,68,1,Alabama,College Stats
+63,2014,6,178,Zach Mettenberger\MettZa00,QB,23,TEN,2014,2015,0,0,1,1,14,10,0-10-0,208,345,2347,12,14,14,12,1,LSU,College Stats
+64,2014,6,183,David Fales\FaleDa00,QB,23,CHI,2014,2019,0,0,0,1,5,0,,31,48,287,1,1,5,8,1,San Jose St.,College Stats
+65,2014,6,194,Keith Wenning\WennKe00,QB,23,BAL,2014,2014,0,0,0,0,0,,,,,,,,,,,Ball St.,College Stats
+66,2014,6,214,Garrett Gilbert\GilbGa01,QB,23,STL,2014,2019,0,0,0,0,6,0,,2,6,40,0,0,3,-3,0,SMU,College Stats
+67,2013,1,16,EJ Manuel\ManuEJ00,QB,23,BUF,2013,2017,0,0,1,10,30,18,6-12-0,343,590,3767,20,16,96,339,4,Florida St.,College Stats
+68,2013,2,39,Geno Smith\SmitGe00,QB,22,NYJ,2013,2018,0,0,2,15,40,31,12-19-0,523,906,6182,29,36,147,661,7,West Virginia,College Stats
+69,2013,3,73,Mike Glennon\GlenMi00,QB,23,TAM,2013,2019,0,0,1,13,29,22,6-16-0,488,801,5163,36,20,43,90,0,North Carolina St.,College Stats
+70,2013,4,98,Matt Barkley\BarkMa00,QB,22,PHI,2013,2019,0,0,1,4,14,7,2-5-0,201,342,2502,10,21,17,-6,0,USC,College Stats
+71,2013,4,110,Ryan Nassib\NassRy00,QB,23,NYG,2014,2015,0,0,0,0,5,0,,9,10,128,1,0,2,-3,0,Syracuse,College Stats
+72,2013,4,112,Tyler Wilson\WilsTy00,QB,24,OAK,,,0,0,0,,,,,,,,,,,,,Arkansas,College Stats
+73,2013,4,115,Landry Jones\JoneLa02,QB,24,PIT,2013,2017,0,0,0,4,19,5,3-2-0,108,169,1310,8,7,19,-19,0,Oklahoma,College Stats
+74,2013,7,221,Brad Sorensen\SoreBr00,QB,25,SDG,2014,2014,0,0,0,0,0,,,,,,,,,,,Southern Utah,
+75,2013,7,234,Zac Dysert\DyseZa00,QB,23,DEN,2014,2014,0,0,0,0,0,,,,,,,,,,,Miami (OH),College Stats
+76,2013,7,237,B.J. Daniels\DaniB.00,QB,24,SFO,2014,2015,0,0,0,0,8,0,,1,2,7,0,0,6,6,0,South Florida,College Stats
+77,2013,7,249,Sean Renfree\RenfSe00,QB,23,ATL,2014,2015,0,0,0,0,2,0,,3,7,11,0,1,1,-4,0,Duke,College Stats
+78,2012,1,1,Andrew Luck\LuckAn00,QB,22,IND,2012,2018,0,4,5,71,86,86,53-33-0,2000,3290,23671,171,83,332,1590,14,Stanford,College Stats
+79,2012,1,2,Robert Griffin\GrifRo01,QB,22,WAS,2012,2019,0,1,3,36,52,41,16-25-0,791,1254,9229,43,28,295,1740,10,Baylor,College Stats
+80,2012,1,8,Ryan Tannehill\TannRy00,QB,24,MIA,2012,2019,0,1,7,63,100,98,49-49-0,2030,3197,23176,145,81,291,1395,10,Texas A&M,College Stats
+81,2012,1,22,Brandon Weeden\WeedBr00,QB,28,CLE,2012,2018,0,0,1,14,35,25,6-19-0,559,965,6462,31,30,62,200,1,Oklahoma St.,College Stats
+82,2012,2,57,Brock Osweiler\OsweBr00,QB,21,DEN,2012,2018,0,0,1,14,49,30,15-15-0,697,1165,7418,37,31,92,266,4,Arizona St.,College Stats
+83,2012,3,75,Russell Wilson\WilsRu00,QB,23,SEA,2012,2019,0,6,8,108,128,128,86-41-1,2436,3777,29734,227,68,720,3993,19,Wisconsin,College Stats
+84,2012,3,88,Nick Foles\FoleNi00,QB,23,PHI,2012,2019,0,1,3,29,58,48,26-22-0,1051,1698,11901,71,35,129,390,5,Arizona,College Stats
+85,2012,4,102,Kirk Cousins\CousKi00,QB,24,WAS,2012,2019,0,2,5,62,93,88,44-42-2,2104,3146,24107,155,71,198,565,15,Michigan St.,College Stats
+86,2012,6,185,Ryan Lindley\LindRy00,QB,23,ARI,2012,2015,0,0,0,-4,10,6,1-5-0,140,274,1372,3,11,4,7,0,San Diego St.,College Stats
+87,2012,7,243,B.J. Coleman\ColeB.00,QB,23,GNB,2012,2012,0,0,0,0,,,,,,,,,,,,Tenn-Chattanooga,
+88,2012,7,253,Chandler Harnish\HarnCh00,QB,24,IND,2012,2014,0,0,0,0,0,,,,,,,,,,,Northern Illinois,College Stats
+89,2011,1,1,Cam Newton\NewtCa00,QB,22,CAR,2011,2019,1,3,8,104,125,124,68-55-1,2371,3980,29041,182,108,934,4806,58,Auburn,College Stats
+90,2011,1,8,Jake Locker\LockJa00,QB,23,TEN,2011,2014,0,0,1,15,30,23,9-14-0,408,709,4967,27,22,95,644,5,Washington,College Stats
+91,2011,1,10,Blaine Gabbert\GabbBl00,QB,21,JAX,2011,2018,0,0,2,16,56,48,13-35-0,842,1498,9063,48,47,177,631,3,Missouri,College Stats
+92,2011,1,12,Christian Ponder\PondCh00,QB,23,MIN,2011,2014,0,0,3,22,38,36,14-21-1,632,1057,6658,38,36,126,639,7,Florida St.,College Stats
+93,2011,2,35,Andy Dalton\DaltAn00,QB,23,CIN,2011,2019,0,3,9,81,133,133,70-61-2,2757,4449,31594,204,118,394,1221,22,TCU,College Stats
+94,2011,2,36,Colin Kaepernick\KaepCo00,QB,23,SFO,2011,2016,0,0,4,45,69,58,28-30-0,1011,1692,12271,72,30,375,2300,13,Nevada,College Stats
+95,2011,3,74,Ryan Mallett\MallRy00,QB,23,NWE,2012,2017,0,0,0,4,21,8,3-5-0,190,345,1835,9,10,28,-5,1,Arkansas,College Stats
+96,2011,5,135,Ricky Stanzi\StanRi00,QB,24,KAN,2012,2014,0,0,0,0,0,,,,,,,,,,,Iowa,College Stats
+97,2011,5,152,T.J. Yates\YateT.00,QB,24,HOU,2011,2017,0,0,0,6,22,10,4-6-0,179,324,2057,10,11,28,107,1,North Carolina,College Stats
+98,2011,5,160,Nathan Enderle\EndeNa00,QB,23,CHI,,,0,0,0,,,,,,,,,,,,,Idaho,College Stats
+99,2011,6,180,Tyrod Taylor\TaylTy00,QB,22,BAL,2011,2019,0,1,3,41,70,46,23-21-1,839,1362,9562,54,20,336,1843,16,Virginia Tech,College Stats
+100,2011,7,208,Greg McElroy\McElGr00,QB,23,NYJ,2012,2012,0,0,0,1,2,1,0-1-0,19,31,214,1,1,8,30,0,Alabama,College Stats
+101,2010,1,1,Sam Bradford\BradSa00,QB,22,STL,2010,2018,0,0,5,44,83,83,34-48-1,1855,2967,19449,103,61,146,340,2,Oklahoma,College Stats
+102,2010,1,25,Tim Tebow\TeboTi00,QB,23,DEN,2010,2012,0,0,1,12,35,16,8-6-0,173,361,2422,17,9,197,989,12,Florida,College Stats
+103,2010,2,48,Jimmy Clausen\ClauJi00,QB,22,CAR,2010,2015,0,0,1,3,22,14,1-13-0,255,472,2520,7,14,37,102,0,Notre Dame,College Stats
+104,2010,3,85,Colt McCoy\McCoCo00,QB,24,CLE,2010,2019,0,0,2,13,39,28,7-21-0,560,923,6080,29,27,130,497,2,Texas,College Stats
+105,2010,4,122,Mike Kafka\KafkMi00,QB,23,PHI,2011,2014,0,0,0,0,4,0,,11,16,107,0,2,3,0,0,Northwestern,College Stats
+106,2010,5,155,John Skelton\SkelJo00,QB,22,ARI,2010,2012,0,0,1,4,20,17,8-9-0,320,602,3707,15,25,42,182,0,Fordham,
+107,2010,5,168,Jonathan Crompton\CromJo00,QB,23,SDG,,,0,0,0,,,,,,,,,,,,,Tennessee,
+108,2010,6,176,Rusty Smith\SmitRu01,QB,23,TEN,2010,2012,0,0,0,1,3,1,0-1-0,23,45,234,0,4,,,,Florida Atlantic,College Stats
+109,2010,6,181,Dan LeFevour\LeFeDa00,QB,23,CHI,,,0,0,0,,,,,,,,,,,,,Central Michigan,
+110,2010,6,204,Tony Pike\PikeTo00,QB,24,CAR,2010,2010,0,0,0,0,1,0,,6,12,47,0,0,,,,Cincinnati,College Stats
+111,2010,7,209,Levi Brown\BrowLe00,QB,23,BUF,2010,2010,0,0,0,0,1,0,,2,3,24,0,1,,,,Troy,College Stats
+112,2010,7,250,Zac Robinson\RobiZa00,QB,23,NWE,2012,2012,0,0,0,0,,,,,,,,,,,,Oklahoma St.,
+113,2009,1,1,Matthew Stafford\StafMa00,QB,21,DET,2009,2019,0,1,10,95,149,149,69-79-1,3559,5696,41025,256,134,316,1086,14,Georgia,College Stats
+114,2009,1,5,Mark Sanchez\SancMa00,QB,22,NYJ,2009,2018,0,0,4,34,79,73,37-36-0,1314,2320,15357,86,89,170,457,13,USC,College Stats
+115,2009,1,17,Josh Freeman\FreeJo00,QB,21,TAM,2009,2015,0,0,4,38,62,61,25-36-0,1179,2048,13873,81,68,205,946,4,Kansas St.,College Stats
+116,2009,2,44,Pat White\WhitPa01,QB,23,MIA,2009,2009,0,0,0,1,13,0,,0,5,0,0,0,21,81,0,West Virginia,College Stats
+117,2009,4,101,Stephen McGee\McGeSt00,QB,23,DAL,2010,2011,0,0,0,2,3,1,1-0-0,46,82,420,3,0,17,102,0,Texas A&M,College Stats
+118,2009,5,151,Rhett Bomar\BomaRh00,QB,24,NYG,,,0,0,0,,,,,,,,,,,,,Sam Houston St.,
+119,2009,5,171,Nate Davis\DaviNa00,QB,22,SFO,,,0,0,0,,,,,,,,,,,,,Ball St.,
+120,2009,6,174,Tom Brandstater\BranTo00,QB,24,DEN,2011,2011,0,0,0,0,1,0,,0,2,0,0,0,,,,Fresno St.,College Stats
+121,2009,6,178,Mike Teel\TeelMi00,QB,23,SEA,,,0,0,0,,,,,,,,,,,,,Rutgers,
+122,2009,6,196,Keith Null\NullKe00,QB,23,STL,2009,2009,0,0,0,1,4,4,0-4-0,73,119,566,3,9,5,6,0,West Texas A&M,
+123,2009,6,201,Curtis Painter\PainCu00,QB,24,IND,2009,2013,0,0,1,2,14,8,0-8-0,148,287,1681,6,13,23,109,0,Purdue,College Stats
+124,2008,1,3,Matt Ryan\RyanMa00,QB,23,ATL,2008,2019,1,4,12,135,189,189,109-80-0,4460,6817,51186,321,147,418,1295,9,Boston Col.,College Stats
+125,2008,1,18,Joe Flacco\FlacJo00,QB,23,BAL,2008,2019,0,0,12,92,171,171,98-73-0,3670,5932,40067,218,141,357,831,16,Delaware,College Stats
+126,2008,2,56,Brian Brohm\BrohBr00,QB,22,GNB,2009,2010,0,0,0,0,3,2,0-2-0,27,52,252,0,5,3,-3,0,Louisville,College Stats
+127,2008,2,57,Chad Henne\HennCh01,QB,23,MIA,2008,2018,0,0,3,27,68,53,18-35-0,1161,1959,12960,58,63,123,358,3,Michigan,College Stats
+128,2008,3,94,Kevin O'Connell\OConKe00,QB,23,NWE,2008,2008,0,0,0,0,2,0,,4,6,23,0,0,3,-6,0,San Diego St.,College Stats
+129,2008,5,156,Dennis Dixon\DixoDe00,QB,23,PIT,2008,2014,0,0,0,2,4,3,2-1-0,35,59,402,1,2,10,56,1,Oregon,College Stats
+130,2008,5,160,Josh Johnson\JohnJo05,QB,22,TAM,2009,2018,0,0,0,6,33,8,1-7-0,148,268,1632,8,14,67,394,1,San Diego,
+131,2008,5,162,Erik Ainge\AingEr00,QB,22,NYJ,,,0,0,0,,,,,,,,,,,,,Tennessee,College Stats
+132,2008,6,186,Colt Brennan\BrenCo00,QB,25,WAS,,,0,0,0,,,,,,,,,,,,,Hawaii,College Stats
+133,2008,6,198,Andre Woodson\WoodAn00,QB,24,NYG,,,0,0,0,,,,,,,,,,,,,Kentucky,College Stats
+134,2008,7,209,Matt Flynn\FlynMa00,QB,23,GNB,2008,2014,0,0,0,8,53,7,3-4-0,219,357,2541,17,11,65,69,1,LSU,College Stats
+135,2008,7,223,Alex Brink\BrinAl00,QB,23,HOU,,,0,0,0,,,,,,,,,,,,,Washington St.,College Stats
+136,2007,1,1,JaMarcus Russell\RussJa00,QB,22,OAK,2007,2009,0,0,2,6,31,25,7-18-0,354,680,4083,18,23,40,175,1,LSU,College Stats
+137,2007,1,22,Brady Quinn\QuinBr00,QB,22,CLE,2007,2012,0,0,1,2,24,20,4-16-0,296,550,3043,12,17,44,185,1,Notre Dame,College Stats
+138,2007,2,36,Kevin Kolb\KolbKe00,QB,23,PHI,2007,2012,0,0,1,12,34,21,9-12-0,449,755,5206,28,25,69,229,2,Houston,College Stats
+139,2007,2,40,John Beck\BeckJo00,QB,26,MIA,2007,2011,0,0,0,4,9,7,0-7-0,140,239,1417,3,7,19,55,3,BYU,College Stats
+140,2007,2,43,Drew Stanton\StanDr00,QB,23,DET,2008,2017,0,0,1,10,38,17,11-6-0,345,659,4059,20,24,80,220,2,Michigan St.,College Stats
+141,2007,3,92,Trent Edwards\EdwaTr01,QB,23,BUF,2007,2012,0,0,2,17,38,33,14-19-0,563,929,6033,26,30,78,330,3,Stanford,College Stats
+142,2007,4,103,Isaiah Stanback\StanIs00,QB,23,DAL,2007,2012,0,0,0,0,22,2,,,,,,,,,,Washington,College Stats
+143,2007,5,151,Jeff Rowe\RoweJe00,QB,23,CIN,2007,2007,0,0,0,0,2,0,,,,,,,,,,Nevada,
+144,2007,5,174,Troy Smith\SmitTr02,QB,23,BAL,2007,2010,0,0,0,6,20,8,4-4-0,121,234,1734,8,5,52,230,3,Ohio St.,College Stats
+145,2007,6,205,Jordan Palmer\PalmJo20,QB,23,WAS,2008,2014,0,0,0,0,5,0,,11,18,66,0,2,2,3,0,Texas-El Paso,College Stats
+146,2007,7,217,Tyler Thigpen\ThigTy00,QB,23,MIN,2007,2014,0,0,1,10,29,12,1-11-0,275,509,3222,21,18,79,469,3,Coastal Carolina,
+147,2006,1,3,Vince Young\YounVi00,QB,23,TEN,2006,2011,0,2,4,33,60,50,31-19-0,755,1304,8964,46,51,282,1459,12,Texas,College Stats
+148,2006,1,10,Matt Leinart\LeinMa00,QB,23,ARI,2006,2012,0,0,1,12,33,18,8-10-0,366,641,4065,15,21,47,89,2,USC,College Stats
+149,2006,1,11,Jay Cutler\CutlJa00,QB,23,DEN,2006,2017,0,1,10,87,153,153,74-79-0,3048,4920,35133,227,160,386,1682,9,Vanderbilt,College Stats
+150,2006,2,49,Kellen Clemens\ClemKe00,QB,23,NYJ,2006,2017,0,0,2,10,64,21,8-13-0,350,638,4053,16,21,85,227,3,Oregon,College Stats
+151,2006,2,64,Tarvaris Jackson\JackTa00,QB,23,MIN,2006,2015,0,0,2,21,59,34,17-17-0,640,1073,7263,39,35,171,636,6,Alabama St.,College Stats
+152,2006,3,81,Charlie Whitehurst\WhitCh02,QB,24,SDG,2006,2016,0,0,0,7,26,9,2-7-0,219,396,2463,11,8,56,156,2,Clemson,College Stats
+153,2006,3,85,Brodie Croyle\CroyBr00,QB,23,KAN,2006,2010,0,0,0,2,18,10,0-10-0,181,319,1669,8,9,10,15,0,Alabama,College Stats
+154,2006,4,103,Brad Smith\SmitBr01,QB,22,NYJ,2006,2014,0,0,1,17,127,24,,4,10,51,1,2,134,972,4,Missouri,College Stats
+155,2006,5,148,Ingle Martin\MartIn00,QB,24,GNB,2006,2006,0,0,0,0,1,0,,,,,,,2,-5,0,Furman,College Stats
+156,2006,6,193,Reggie McNeal\McNeRe00,QB,22,CIN,2006,2006,0,0,0,0,7,0,,,,,,,1,8,0,Texas A&M,College Stats
+157,2006,6,194,Bruce Gradkowski\GradBr00,QB,23,TAM,2006,2014,0,0,1,8,37,20,6-14-0,375,709,4057,21,24,88,329,0,Toledo,College Stats
+158,2005,1,1,Alex Smith\SmitAl03,QB,21,SFO,2005,2018,0,3,13,96,166,161,94-66-1,3082,4941,34068,193,101,570,2601,15,Utah,College Stats
+159,2005,1,24,Aaron Rodgers\RodgAa00,QB,21,GNB,2005,2019,2,8,11,142,181,174,113-60-1,3913,6061,46946,364,84,614,3122,28,California,College Stats
+160,2005,1,25,Jason Campbell\CampJa00,QB,23,WAS,2006,2014,0,0,5,47,90,79,32-47-0,1519,2518,16771,87,60,240,1204,6,Auburn,College Stats
+161,2005,3,67,Charlie Frye\FryeCh00,QB,24,CLE,2005,2009,0,0,1,8,26,23,7-16-0,419,677,4154,17,29,72,347,4,Akron,College Stats
+162,2005,3,69,Andrew Walter\WaltAn00,QB,23,OAK,2006,2008,0,0,1,1,15,9,2-7-0,174,333,1919,3,16,19,49,0,Arizona St.,College Stats
+163,2005,4,106,Kyle Orton\OrtoKy00,QB,22,CHI,2005,2014,0,0,5,41,87,82,42-40-0,1613,2712,18037,101,69,126,296,4,Purdue,College Stats
+164,2005,5,145,Dan Orlovsky\OrloDa00,QB,22,DET,2005,2015,0,0,1,7,27,12,2-10-0,298,512,3132,15,13,13,34,0,Connecticut,College Stats
+165,2005,6,213,Derek Anderson\AndeDe00,QB,22,BAL,2006,2018,0,1,3,23,78,49,20-29-0,909,1674,10878,60,64,102,226,5,Oregon St.,College Stats
+166,2005,7,230,Matt Cassel\CassMa00,QB,23,NWE,2005,2018,0,1,6,46,108,81,36-45-0,1578,2683,17508,104,82,268,1025,5,USC,College Stats
+167,2005,7,250,Ryan Fitzpatrick\FitzRy00,QB,22,STL,2005,2019,0,0,10,75,156,139,55-83-1,2886,4787,32886,210,161,544,2470,19,Harvard,
+168,2004,1,1,Eli Manning\MannEl00,QB,23,SDG,2004,2019,0,4,14,118,236,234,117-117-0,4895,8119,57023,366,244,315,567,7,Mississippi,College Stats
+169,2004,1,4,Philip Rivers\RivePh00,QB,22,NYG,2004,2019,0,8,14,145,228,224,123-101-0,4908,7591,59271,397,198,365,609,3,North Carolina St.,College Stats
+170,2004,1,11,Ben Roethlisberger\RoetBe00,QB,22,PIT,2004,2019,0,6,15,125,218,216,144-71-1,4651,7230,56545,363,191,470,1357,19,Miami (OH),College Stats
+171,2004,1,22,J.P. Losman\LosmJ.00,QB,23,BUF,2004,2011,0,0,1,19,45,33,10-23-0,564,952,6271,33,34,105,490,3,Tulane,College Stats
+172,2004,3,90,Matt Schaub\SchaMa00,QB,23,ATL,2004,2019,0,2,7,70,154,93,47-46-0,2148,3348,25467,136,91,193,357,4,Virginia,College Stats
+173,2004,4,106,Luke McCown\McCoLu00,QB,23,CLE,2004,2015,0,0,0,8,62,10,2-8-0,216,356,2370,9,15,34,177,0,Louisiana Tech,College Stats
+174,2004,5,148,Craig Krenzel\KrenCr00,QB,23,CHI,2004,2004,0,0,0,1,6,5,3-2-0,59,127,718,3,6,18,41,0,Ohio St.,College Stats
+175,2004,6,185,Andy Hall\HallAn00,QB,23,PHI,2005,2005,0,0,0,0,1,0,,,,,,,,,,Delaware,College Stats
+176,2004,6,193,Jim Sorgi\SorgJi00,QB,23,IND,2004,2009,0,0,0,5,16,0,,99,156,929,6,1,31,0,0,Wisconsin,College Stats
+177,2004,7,202,John Navarre\NavaJo00,QB,23,ARI,2004,2005,0,0,0,0,2,1,0-1-0,32,64,342,2,5,,,,Michigan,College Stats
+178,2004,7,217,Cody Pickett\PickCo00,QB,24,SFO,2004,2005,0,0,0,1,6,2,0-2-0,18,45,195,0,4,14,47,0,Washington,College Stats
+179,2004,7,225,Matt Mauck\MaucMa00,QB,25,DEN,2005,2005,0,0,0,1,2,1,0-1-0,15,27,136,0,1,7,39,0,LSU,College Stats
+180,2004,7,250,Bradlee Van Pelt\VanPBr00,QB,24,DEN,2005,2005,0,0,0,0,3,0,,2,8,7,0,0,11,48,1,Colorado St.,College Stats
+181,2003,1,1,Carson Palmer\PalmCa00,QB,23,CIN,2004,2017,0,3,12,108,182,181,92-88-1,3941,6307,46247,294,187,301,474,8,USC,College Stats
+182,2003,1,7,Byron Leftwich\LeftBy00,QB,23,JAX,2003,2012,0,0,3,33,60,50,24-26-0,930,1605,10532,58,42,137,415,10,Marshall,College Stats
+183,2003,1,19,Kyle Boller\BollKy00,QB,22,BAL,2003,2011,0,0,4,17,67,47,20-27-0,861,1519,8931,48,54,176,572,2,California,College Stats
+184,2003,1,22,Rex Grossman\GrosRe00,QB,23,CHI,2003,2012,0,0,3,23,54,47,25-22-0,863,1562,10232,56,60,81,106,4,Florida,College Stats
+185,2003,3,88,Dave Ragone\RagoDa00,QB,23,HOU,2003,2003,0,0,0,1,2,2,0-2-0,20,40,135,0,1,6,51,0,Louisville,College Stats
+186,2003,3,97,Chris Simms\SimmCh00,QB,23,TAM,2004,2009,0,0,1,8,23,16,7-9-0,297,511,3117,12,18,33,48,1,Texas,College Stats
+187,2003,4,110,Seneca Wallace\WallSe00,QB,23,SEA,2005,2013,0,0,1,14,64,22,6-16-0,468,788,4947,31,19,68,293,1,Iowa St.,College Stats
+188,2003,5,163,Brian St. Pierre\St.PBr20,QB,23,PIT,2004,2010,0,0,0,0,3,1,0-1-0,15,33,185,2,3,5,-1,0,Boston Col.,College Stats
+189,2003,6,192,Drew Henson\HensDr00,QB,23,HOU,2004,2008,0,0,0,0,9,1,1-0-0,11,20,98,1,1,1,7,0,Michigan,College Stats
+190,2003,6,200,Brooks Bollinger\BollBr00,QB,23,NYJ,2004,2008,0,0,1,6,21,10,2-8-0,211,360,2226,9,9,41,155,0,Wisconsin,College Stats
+191,2003,6,201,Kliff Kingsbury\KingKl00,QB,24,NWE,2005,2005,0,0,0,0,1,0,,1,2,17,0,0,,,,Texas Tech,College Stats
+192,2003,7,232,Gibran Hamdan\HamdGi00,QB,22,WAS,2003,2003,0,0,0,0,1,0,,1,2,7,0,0,,,,Indiana,College Stats
+193,2003,7,241,Ken Dorsey\DorsKe00,QB,22,SFO,2004,2008,0,0,0,1,17,13,2-11-0,214,408,2082,8,18,11,18,0,Miami (FL),College Stats
+194,2002,1,1,David Carr\CarrDa00,QB,23,HOU,2002,2012,0,0,5,44,94,79,23-56-0,1353,2267,14452,65,71,305,1328,9,Fresno St.,College Stats
+195,2002,1,3,Joey Harrington\HarrJo00,QB,23,DET,2002,2007,0,0,6,30,81,76,26-50-0,1424,2538,14693,79,85,142,402,0,Oregon,College Stats
+196,2002,1,32,Patrick Ramsey\RamsPa00,QB,23,WAS,2002,2008,0,0,1,14,37,24,10-14-0,511,913,5930,35,30,47,89,2,Tulane,College Stats
+197,2002,3,81,Josh McCown\McCoJo01,QB,23,ARI,2002,2019,0,0,5,40,102,76,23-53-0,1584,2633,17731,98,82,248,1106,13,Sam Houston St.,College Stats
+198,2002,4,108,David Garrard\GarrDa00,QB,24,JAX,2002,2010,0,1,5,61,86,76,39-37-0,1406,2281,16003,89,54,380,1746,17,East Carolina,College Stats
+199,2002,4,117,Rohan Davey\DaveRo01,QB,24,NWE,2002,2004,0,0,0,0,7,0,,8,19,88,0,0,6,-5,0,LSU,College Stats
+200,2002,5,137,Randy Fasani\FasaRa00,QB,23,CAR,2002,2002,0,0,0,1,4,1,0-1-0,15,44,171,0,4,18,95,0,Stanford,College Stats
+201,2002,5,158,Kurt Kittner\KittKu00,QB,22,ATL,2003,2003,0,0,0,1,7,4,1-3-0,44,114,391,2,6,8,13,0,Illinois,College Stats
+202,2002,5,164,Craig Nall\NallCr00,QB,23,GNB,2003,2007,0,0,0,1,7,0,,30,48,402,5,0,10,11,0,LSU,College Stats
+203,2002,6,186,J.T. O'Sullivan\OSulJ.00,QB,23,NOR,2004,2009,0,0,0,6,17,8,2-6-0,145,257,1866,9,13,39,145,0,California-Davis,
+204,2002,7,232,Jeff Kelly\KellJe21,QB,23,SEA,,,0,0,0,,,,,,,,,,,,,Southern Miss,College Stats
+205,2001,1,1,Michael Vick\VickMi00,QB,21,ATL,2001,2015,0,4,7,93,143,115,61-51-1,1807,3217,22464,133,88,873,6109,36,Virginia Tech,College Stats
+206,2001,2,32,Drew Brees\BreeDr00,QB,22,SDG,2001,2019,1,13,18,166,275,274,163-111-0,6867,10161,77416,547,237,480,754,23,Purdue,College Stats
+207,2001,2,53,Quincy Carter\CartQu00,QB,23,DAL,2001,2004,0,0,2,17,38,34,18-16-0,542,960,6337,32,37,152,518,3,Georgia,College Stats
+208,2001,2,59,Marques Tuiasosopo\TuiaMa00,QB,22,OAK,2001,2008,0,0,0,1,13,2,0-2-0,49,90,554,2,7,17,79,0,Washington,College Stats
+209,2001,4,106,Chris Weinke\WeinCh00,QB,29,CAR,2001,2007,0,0,1,9,29,20,2-18-0,386,709,3904,15,26,54,148,6,Florida St.,College Stats
+210,2001,4,109,Sage Rosenfels\RoseSa00,QB,23,WAS,2002,2010,0,0,0,13,44,12,6-6-0,351,562,4156,30,29,48,95,1,Iowa St.,College Stats
+211,2001,4,125,Jesse Palmer\PalmJe00,QB,22,NYG,2002,2003,0,0,0,1,8,3,0-3-0,63,120,562,3,4,5,20,0,Florida,College Stats
+212,2001,5,149,Mike McMahon\McMaMi00,QB,22,DET,2001,2005,0,0,0,6,29,14,3-11-0,229,515,2867,15,21,82,409,7,Rutgers,College Stats
+213,2001,5,155,A.J. Feeley\FeelA.00,QB,24,PHI,2001,2011,0,0,1,7,28,18,8-10-0,425,762,4618,28,31,37,49,1,Oregon,College Stats
+214,2000,1,18,Chad Pennington\PennCh01,QB,24,NYJ,2000,2010,0,0,5,55,89,81,44-37-0,1632,2471,17823,102,64,180,465,7,Marshall,College Stats
+215,2000,3,75,Chris Redman\RedmCh00,QB,23,BAL,2000,2011,0,0,0,9,31,12,4-8-0,286,500,3179,21,14,33,25,0,Louisville,College Stats
+216,2000,5,163,Tee Martin\MartTe00,QB,22,PIT,2001,2003,0,0,0,0,3,0,,6,16,69,0,1,6,36,0,Tennessee,College Stats
+217,2000,6,168,Marc Bulger\BulgMa00,QB,23,NOR,2002,2009,0,2,8,57,96,95,41-54-0,1969,3171,22814,122,93,118,300,8,West Virginia,College Stats
+218,2000,6,183,Spergon Wynn\WynnSp00,QB,22,CLE,2000,2001,0,0,0,2,10,3,0-3-0,70,152,585,1,7,11,76,0,Texas St.,College Stats
+219,2000,6,199,Tom Brady\BradTo00,QB,23,NWE,2000,2019,3,14,18,176,285,283,219-64-0,6377,9988,74571,541,179,606,1037,22,Michigan,College Stats
+220,2000,6,202,Todd Husak\HusaTo20,QB,22,WAS,2000,2000,0,0,0,0,1,0,,2,2,-2,0,0,1,-1,0,Stanford,College Stats
+221,2000,7,212,Tim Rattay\RattTi00,QB,23,SFO,2000,2007,0,0,1,12,40,18,5-13-0,432,714,4853,31,23,45,77,0,Louisiana Tech,College Stats
+222,2000,7,214,Jarious Jackson\JackJa01,QB,23,DEN,2000,2003,0,0,0,0,5,1,0-1-0,11,22,114,0,1,7,15,0,Notre Dame,College Stats
+223,2000,7,234,Joe Hamilton\HamiJo20,QB,23,TAM,2000,2000,0,0,0,0,1,0,,0,0,0,0,0,1,-2,0,Georgia Tech,College Stats
+224,1999,1,1,Tim Couch\CoucTi00,QB,22,CLE,1999,2003,0,0,3,30,62,59,22-37-0,1025,1714,11131,64,67,124,556,2,Kentucky,College Stats
+225,1999,1,2,Donovan McNabb\McNaDo00,QB,22,PHI,1999,2011,0,6,11,107,167,161,98-62-1,3170,5374,37276,234,117,616,3459,29,Syracuse,College Stats
+226,1999,1,3,Akili Smith\SmitAk00,QB,24,CIN,1999,2002,0,0,1,1,22,17,3-14-0,215,461,2212,5,13,70,371,1,Oregon,College Stats
+227,1999,1,11,Daunte Culpepper\CulpDa00,QB,22,MIN,1999,2009,0,3,5,86,105,100,41-59-0,2016,3199,24153,149,106,514,2652,34,Central Florida,College Stats
+228,1999,1,12,Cade McNown\McNoCa00,QB,22,CHI,1999,2000,0,0,1,7,25,15,3-12-0,281,515,3111,16,19,82,486,3,UCLA,College Stats
+229,1999,2,50,Shaun King\KingSh00,QB,22,TAM,1999,2004,0,0,1,18,34,24,14-10-0,415,738,4566,27,24,113,454,5,Tulane,College Stats
+230,1999,3,77,Brock Huard\HuarBr00,QB,23,SEA,2000,2003,0,0,0,2,8,4,0-4-0,60,107,689,4,2,9,48,0,Washington,College Stats
+231,1999,4,101,Joe Germaine\GermJo00,QB,24,STL,1999,1999,0,0,0,1,3,0,,9,16,136,1,2,3,0,0,Ohio St.,College Stats
+232,1999,4,131,Aaron Brooks\BrooAa00,QB,23,GNB,2000,2006,0,0,5,65,93,90,38-52-0,1673,2963,20261,123,92,362,1534,13,Virginia,College Stats
+233,1999,7,227,Michael Bishop\BishMi00,QB,23,NWE,2000,2000,0,0,0,0,8,0,,3,9,80,1,1,7,-1,0,Kansas St.,College Stats
+234,1999,7,239,Chris Greisen\GreiCh00,QB,23,ARI,1999,2000,0,0,0,0,5,0,,7,16,69,1,0,1,1,0,NW Missouri St.,
+235,1999,7,245,Scott Covington\CoviSc00,QB,23,CIN,1999,2002,0,0,0,0,4,1,1-0-0,6,10,30,0,0,2,-4,0,Miami (FL),College Stats
+236,1998,1,1,Peyton Manning\MannPe00,QB,22,IND,1998,2015,7,14,17,177,266,265,186-79-0,6125,9380,71940,539,251,431,667,18,Tennessee,College Stats
+237,1998,1,2,Ryan Leaf\LeafRy00,QB,22,SDG,1998,2001,0,0,1,1,25,21,4-17-0,317,655,3666,14,36,59,127,0,Washington St.,College Stats
+238,1998,2,60,Charlie Batch\BatcCh00,QB,23,DET,1998,2012,0,0,4,33,81,55,25-30-0,908,1604,11085,61,52,172,637,6,East. Michigan,College Stats
+239,1998,3,86,Jonathan Quinn\QuinJo00,QB,23,JAX,1998,2004,0,0,0,4,17,6,1-5-0,117,223,1161,4,7,25,151,1,Middle Tenn. St.,College Stats
+240,1998,3,91,Brian Griese\GrieBr00,QB,23,DEN,1998,2008,0,1,5,53,93,83,44-38-0,1752,2796,19440,119,99,238,582,5,Michigan,College Stats
+241,1998,6,187,Matt Hasselbeck\HassMa00,QB,22,GNB,1999,2015,0,3,11,88,209,160,85-75-0,3222,5330,36638,212,153,365,1231,8,Boston Col.,College Stats
+242,1998,7,232,Moses Moreno\MoreMo00,QB,23,CHI,1998,2000,0,0,0,1,9,3,0-3-0,51,103,485,1,2,9,29,0,Colorado St.,College Stats
+243,1997,1,26,Jim Druckenmiller\DrucJi00,QB,24,SFO,1997,1998,0,0,0,1,6,1,1-0-0,21,52,239,1,4,13,-10,0,Virginia Tech,College Stats
+244,1997,2,42,Jake Plummer\PlumJa00,QB,22,ARI,1997,2006,0,1,10,77,143,136,69-67-0,2484,4350,29253,161,161,428,1853,17,Arizona St.,College Stats
+245,1997,4,99,Danny Wuerffel\WuerDa00,QB,23,NOR,1997,2002,0,0,0,6,25,10,4-6-0,184,350,2123,12,22,31,189,1,Florida,College Stats
+246,1997,4,110,Pat Barnes\BarnPa20,QB,22,KAN,1999,1999,0,0,0,0,1,0,,,,,,,,,,California,College Stats
+247,1997,6,171,Mike Cherry\CherMi00,QB,23,NYG,1997,1998,0,0,0,0,2,0,,0,1,0,0,0,4,-5,0,Murray St.,College Stats
+248,1997,6,191,Chuck Clements\ClemCh21,QB,23,NYJ,1997,1997,0,0,0,0,1,0,,,,,,,2,-3,0,Houston,College Stats
+249,1997,7,204,Tony Graziani\GrazTo00,QB,23,ATL,1997,1999,0,0,0,3,18,5,2-3-0,85,174,999,2,8,16,51,0,Oregon,College Stats
+250,1997,7,207,Koy Detmer\DetmKo00,QB,24,PHI,1998,2006,0,0,0,4,104,8,3-5-0,184,354,1944,10,14,31,30,1,Colorado,College Stats
+251,1997,7,234,Wally Richardson\RichWa00,QB,23,BAL,1998,1998,0,0,0,0,1,0,,1,2,1,0,0,1,0,0,Penn St.,College Stats
+252,1996,2,42,Tony Banks\BankTo00,QB,23,STL,1996,2005,0,0,5,42,96,78,35-43-0,1278,2356,15315,77,73,246,881,6,Michigan St.,College Stats
+253,1996,3,85,Bobby Hoying\HoyiBo00,QB,23,PHI,1996,2000,0,0,1,3,22,13,3-9-1,244,456,2544,11,15,42,156,0,Ohio St.,College Stats
+254,1996,4,100,Jeff Lewis\LewiJe01,QB,23,DEN,1996,2000,0,0,0,2,12,0,,28,54,210,0,2,21,78,0,Northern Arizona,
+255,1996,4,130,Danny Kanell\KaneDa00,QB,22,NYG,1996,2003,0,0,2,13,43,24,10-13-1,491,956,5129,31,34,44,49,0,Florida St.,College Stats
+256,1995,1,3,Steve McNair\McNaSt00,QB,22,HOU,1995,2007,0,3,10,100,161,153,91-62-0,2733,4544,31304,174,119,669,3590,37,Alcorn St.,College Stats
+257,1995,1,5,Kerry Collins\CollKe00,QB,22,CAR,1995,2011,0,2,11,81,198,180,81-99-0,3487,6261,40922,208,196,374,686,10,Penn St.,College Stats
+258,1995,2,45,Todd Collins\CollTo00,QB,23,BUF,1995,2010,0,0,1,11,50,21,11-10-0,391,701,4547,22,24,83,152,0,Michigan,College Stats
+259,1995,2,60,Kordell Stewart\StewKo00,QB,22,PIT,1995,2005,0,1,6,59,125,87,48-34-0,1316,2358,14746,77,84,560,2874,38,Colorado,College Stats
+260,1995,3,80,Stoney Case\CaseSt00,QB,23,ARI,1995,2000,0,0,0,4,20,6,3-3-0,163,318,1826,4,15,60,270,5,New Mexico,College Stats
+261,1995,3,84,Eric Zeier\ZeieEr00,QB,23,CLE,1995,2000,0,0,0,6,28,12,4-8-0,301,537,3520,16,15,43,127,0,Georgia,College Stats
+262,1995,4,99,Rob Johnson\JohnRo00,QB,22,JAX,1995,2003,0,0,2,19,48,29,12-17-0,494,806,5795,30,23,140,877,4,USC,College Stats
+263,1995,4,119,Dave Barr\BarrDa20,QB,23,PHI,1995,1995,0,0,0,0,2,0,,5,9,42,0,0,1,5,0,California,College Stats
+264,1995,4,134,Steve Stenstrom\StenSt00,QB,23,KAN,1996,1999,0,0,0,6,17,10,1-9-0,177,314,1895,4,12,22,100,2,Stanford,College Stats
+265,1995,6,197,Craig Whelihan\WhelCr00,QB,24,SDG,1997,1998,0,0,1,1,19,14,2-12-0,267,557,3160,14,29,31,67,0,Pacific,College Stats
+266,1994,1,3,Heath Shuler\ShulHe00,QB,22,WAS,1994,1997,0,0,2,6,29,22,8-14-0,292,593,3691,15,33,67,198,1,Tennessee,College Stats
+267,1994,1,6,Trent Dilfer\DilfTr00,QB,22,TAM,1994,2007,0,1,7,51,130,113,58-55-0,1759,3172,20518,113,129,248,853,5,Fresno St.,College Stats
+268,1994,4,111,Perry Klein\KleiPe20,QB,23,ATL,1994,1994,0,0,0,0,2,0,,0,1,0,0,0,,,,C.W. Post,College Stats
+269,1994,4,116,Doug Nussmeier\NussDo00,QB,23,NOR,1996,1997,0,0,0,2,5,2,0-2-0,46,82,455,1,4,11,36,0,Idaho,
+270,1994,6,178,Jim Miller\MillJi00,QB,23,PIT,1995,2002,0,0,2,16,37,27,15-12-0,610,1046,6387,36,31,55,4,0,Michigan St.,College Stats
+271,1994,7,197,Gus Frerotte\FrerGu00,QB,23,WAS,1994,2008,0,1,5,56,147,93,45-47-1,1699,3106,21291,114,106,197,315,6,Tulsa,College Stats
+272,1994,7,198,Jay Walker\WalkJa22,QB,22,NWE,1996,1997,0,0,0,0,1,0,,2,2,31,0,0,,,,Howard,College Stats
+273,1994,7,199,Steve Matthews\MattSt00,QB,23,KAN,1997,1998,0,0,0,1,3,1,1-0-0,28,43,299,0,0,1,10,0,Memphis,College Stats
+274,1994,7,208,Glenn Foley\FoleGl00,QB,23,NYJ,1994,1999,0,0,0,8,21,9,2-7-0,207,382,2469,12,16,19,32,0,Boston Col.,College Stats
+275,1993,1,1,Drew Bledsoe\BledDr00,QB,21,NWE,1993,2006,0,4,12,103,194,193,98-95-0,3839,6717,44611,251,206,385,764,10,Washington St.,College Stats
+276,1993,1,2,Rick Mirer\MireRi00,QB,23,SEA,1993,2003,0,0,5,32,80,68,24-44-0,1088,2043,11969,50,76,242,1130,9,Notre Dame,College Stats
+277,1993,3,58,Billy Joe Hobert\HobeBi00,QB,22,RAI,1995,1999,0,0,0,7,29,17,4-13-0,275,527,3371,23,25,33,121,1,Washington,College Stats
+278,1993,5,118,Mark Brunell\BrunMa00,QB,22,GNB,1994,2011,0,3,11,96,193,151,78-73-0,2761,4640,32072,184,108,513,2421,15,Washington,College Stats
+279,1993,7,192,Gino Torretta\ToreGi00,QB,23,MIN,1993,1996,0,0,0,0,2,0,,5,16,41,1,1,2,12,0,Miami (FL),College Stats
+280,1993,8,216,Alex Van Pelt\VanPAl00,QB,23,PIT,1995,2003,0,0,0,7,31,11,3-8-0,262,477,2985,16,24,32,53,1,Pittsburgh,College Stats
+281,1993,8,219,Elvis Grbac\GrbaEl00,QB,23,SFO,1994,2001,0,1,4,46,105,70,40-30-0,1446,2445,16774,99,81,163,388,7,Michigan,College Stats
+282,1993,8,222,Trent Green\GreeTr00,QB,23,SDG,1997,2008,0,2,7,94,120,113,56-57-0,2266,3740,28475,162,114,243,914,6,Indiana,College Stats
+283,1992,1,6,David Klingler\KlinDa00,QB,23,CIN,1992,1997,0,0,1,11,33,24,4-20-0,389,718,3994,16,22,74,456,0,Houston,College Stats
+284,1992,1,25,Tommy Maddox\MaddTo00,QB,21,DEN,1992,2005,0,0,2,24,92,36,15-20-1,686,1200,8087,48,54,68,128,1,UCLA,College Stats
+285,1992,2,40,Matt Blundin\BlunMa00,QB,23,KAN,1993,1997,0,0,0,0,3,0,,2,9,15,0,2,,,,Virginia,College Stats
+286,1992,2,46,Tony Sacca\SaccTo00,QB,22,PHO,1992,1992,0,0,0,0,2,0,,4,11,29,0,2,,,,Penn St.,College Stats
+287,1992,4,102,Casey Weldon\WeldCa00,QB,23,PHI,1993,1999,0,0,0,1,26,0,,60,120,713,1,4,12,0,1,Florida St.,College Stats
+288,1992,4,107,Will Furrer\FurrWi00,QB,24,CHI,1992,1995,0,0,0,1,9,2,0-2-0,57,124,572,2,10,8,20,0,Virginia Tech,College Stats
+289,1992,6,166,Jeff Blake\BlakJe00,QB,21,NYJ,1992,2005,0,1,8,67,119,100,39-61-0,1827,3241,21711,134,99,418,2027,14,East Carolina,College Stats
+290,1992,8,211,Kent Graham\GrahKe00,QB,23,NYG,1992,2001,0,0,1,21,81,38,17-21-0,694,1339,7801,39,33,121,424,5,Ohio St.,College Stats
+291,1992,8,220,Bucky Richardson\RichBu00,QB,23,HOU,1992,1994,0,0,0,4,16,4,1-3-0,97,185,1257,6,6,33,225,1,Texas A&M,College Stats
+292,1992,9,227,Brad Johnson\JohnBr00,QB,23,MIN,1994,2008,0,2,8,74,177,125,72-53-0,2668,4326,29054,166,122,276,657,8,Florida St.,College Stats
+293,1992,9,228,T.J. Rubley\RublTJ00,QB,23,RAM,1993,1995,0,0,0,5,10,7,2-5-0,112,195,1377,8,7,31,108,0,Tulsa,College Stats
+294,1992,9,230,Ty Detmer\DetmTy00,QB,24,GNB,1993,2003,0,0,2,15,54,25,11-14-0,546,946,6351,34,35,72,177,3,BYU,College Stats
+295,1991,1,16,Dan McGwire\McGwDa00,QB,23,SEA,1991,1995,0,0,0,2,13,5,2-3-0,74,148,745,2,6,14,6,0,San Diego St.,College Stats
+296,1991,1,24,Todd Marinovich\MariTo00,QB,22,RAI,1991,1992,0,0,0,3,8,8,3-5-0,104,205,1345,8,9,12,44,0,USC,College Stats
+297,1991,2,33,Brett Favre HOF\FavrBr00,QB,21,ATL,1991,2010,3,11,19,156,302,298,186-112-0,6300,10169,71838,508,336,602,1844,14,Southern Miss,College Stats
+298,1991,2,34,Browning Nagle\NaglBr00,QB,23,NYJ,1991,1996,0,0,1,5,24,14,4-10-0,213,437,2489,8,20,26,68,0,Louisville,College Stats
+299,1991,4,84,Scott Zolak\ZolaSc00,QB,23,NWE,1992,1999,0,0,0,4,55,7,3-4-0,124,248,1314,8,7,38,81,0,Maryland,College Stats
+300,1991,4,99,Donald Hollas\HollDo00,QB,23,CIN,1991,1998,0,0,0,5,32,8,4-4-0,202,375,2399,13,21,61,295,1,Rice,College Stats
+1,1991,4,106,Bill Musgrave\MusgBi00,QB,23,DAL,1991,1996,0,0,0,1,12,1,0-1-0,43,69,402,1,2,19,-11,0,Oregon,College Stats
+2,1991,5,131,Craig Erickson\EricCr00,QB,22,PHI,1992,1997,0,0,2,21,52,36,14-21-0,591,1092,7625,41,38,77,201,1,Miami (FL),College Stats
+3,1991,7,190,Paul Justin\JustPa00,QB,23,CHI,1995,1999,0,0,0,8,34,10,3-7-0,220,380,2614,8,10,17,11,0,Arizona St.,College Stats
+4,1991,11,284,Shawn Moore\MoorSh00,QB,23,DEN,1992,1992,0,0,0,1,3,0,,17,34,232,0,3,8,39,0,Virginia,College Stats
+5,1990,1,1,Jeff George\GeorJe00,QB,22,IND,1990,2001,0,0,9,65,131,124,46-78-0,2298,3967,27602,154,113,168,307,2,Illinois,College Stats
+6,1990,1,7,Andre Ware\WareAn00,QB,22,DET,1990,1993,0,0,0,5,14,6,3-3-0,83,161,1112,5,8,38,217,0,Houston,College Stats
+7,1990,3,59,Tom Hodson\HodsTo00,QB,23,NWE,1990,1995,0,0,0,4,36,12,1-11-0,174,320,1823,7,11,21,90,0,LSU,College Stats
+8,1990,3,63,Peter Tom Willis\WillPe00,QB,23,CHI,1990,1993,0,0,0,4,21,3,0-3-0,104,183,1261,6,15,5,14,0,Florida St.,College Stats
+9,1990,3,70,Neil O'Donnell\ODonNe00,QB,24,PIT,1991,2003,0,1,7,59,125,100,55-45-0,1865,3229,21690,120,68,215,446,4,Maryland,College Stats
+10,1990,4,84,Troy Taylor\TaylTr00,QB,22,NYJ,1990,1991,0,0,0,0,7,0,,12,20,125,2,1,9,43,1,California,College Stats
+11,1990,4,86,Cary Conklin\ConkCa00,QB,22,WAS,1992,1995,0,0,0,1,7,2,0-2-0,52,101,560,5,3,5,-6,0,Washington,College Stats
+12,1990,4,93,Scott Mitchell\MitcSc00,QB,22,MIA,1991,2001,0,0,5,49,99,71,32-39-0,1301,2346,15692,95,81,172,485,11,Utah,College Stats
+13,1990,5,135,Craig Kupp\KuppCr20,QB,23,NYG,1991,1991,0,0,0,0,1,0,,3,7,23,0,0,1,5,0,Pacific Lutheran,
+14,1990,6,138,John Friesz\FrieJo00,QB,23,SDG,1990,2000,0,0,1,26,69,38,13-25-0,745,1364,8699,45,42,53,29,0,Idaho,
+15,1990,6,156,Mike Buck\BuckMi00,QB,23,NOR,1991,1995,0,0,0,2,12,1,0-1-0,55,92,790,5,4,5,-4,0,Maine,
+16,1989,1,1,Troy Aikman HOF\AikmTr00,QB,22,DAL,1989,2000,0,6,12,97,165,165,94-71-0,2898,4715,32942,165,141,327,1016,9,UCLA,College Stats
+17,1989,2,32,Mike Elkins\ElkiMi00,QB,23,KAN,1989,1989,0,0,0,0,1,0,,1,2,5,0,1,,,,Wake Forest,College Stats
+18,1989,2,51,Billy Joe Tolliver\TollBi00,QB,23,SDG,1989,1999,0,0,3,26,79,47,15-32-0,891,1707,10760,59,64,99,320,5,Texas Tech,College Stats
+19,1989,3,74,Anthony Dilweg\DilwAn00,QB,24,GNB,1989,1990,0,0,0,4,10,7,2-5-0,102,193,1274,8,7,21,114,0,Duke,College Stats
+20,1989,3,83,Erik Wilhelm\WilhEr00,QB,23,CIN,1989,1996,0,0,0,3,22,1,0-1-0,77,136,912,5,6,19,69,0,Oregon St.,College Stats
+21,1989,4,102,Jeff Carlson\CarlJe00,QB,23,RAM,1990,1992,0,0,0,2,7,3,0-3-0,49,114,636,2,9,17,57,0,Weber St.,
+22,1989,6,140,Jeff Francis\FranJe20,QB,23,RAI,1990,1990,0,0,0,0,1,0,,2,2,26,0,0,,,,Tennessee,College Stats
+23,1989,6,141,Rodney Peete\PeetRo00,QB,23,DET,1989,2004,0,0,7,46,104,87,45-42-0,1344,2346,16338,76,92,270,1139,16,USC,College Stats
+24,1988,3,68,Tom Tupa\TupaTo20,QB,22,PHO,1988,2004,1,1,1,29,220,13,4-9-0,259,504,3430,12,25,53,187,1,Ohio St.,College Stats
+25,1988,3,76,Chris Chandler\ChanCh00,QB,22,IND,1988,2004,0,2,9,77,180,152,67-85-0,2328,4005,28484,170,146,371,1310,12,Washington,College Stats
+26,1988,6,151,Scott Secules\SecuSc00,QB,23,DAL,1989,1993,0,0,0,5,57,4,0-4-0,108,204,1311,4,14,24,136,1,Virginia,College Stats
+27,1988,6,159,Stan Humphries\HumpSt00,QB,23,WAS,1989,1997,0,0,6,50,88,81,50-31-0,1431,2516,17191,89,84,150,356,7,La-Monroe,
+28,1988,7,180,Kerwin Bell\BellKe00,QB,23,MIA,1996,1996,0,0,0,0,1,0,,5,5,75,1,0,1,-1,0,Florida,College Stats
+29,1987,1,1,Vinny Testaverde\TestVi00,QB,23,TAM,1987,2007,0,2,15,97,233,214,90-123-1,3787,6701,46233,275,267,430,1661,15,Miami (FL),College Stats
+30,1987,1,6,Kelly Stouffer\StouKe00,QB,23,STL,1988,1992,0,0,0,2,22,16,5-11-0,225,437,2333,7,19,30,75,0,Colorado St.,College Stats
+31,1987,1,13,Chris Miller\MillCh00,QB,22,ATL,1987,1999,0,1,7,52,98,92,34-58-0,1580,2892,19320,123,102,178,814,2,Oregon,College Stats
+32,1987,1,26,Jim Harbaugh\HarbJi00,QB,23,CHI,1987,2000,0,1,10,78,177,140,66-74-0,2305,3918,26288,129,117,561,2787,18,Michigan,College Stats
+33,1987,3,64,Cody Carlson\CarlCo00,QB,23,HOU,1988,1994,0,0,0,15,45,19,11-8-0,370,659,4469,21,28,81,217,4,Baylor,College Stats
+34,1987,4,88,Mark Vlasic\VlasMa00,QB,23,SDG,1987,1991,0,0,0,3,15,4,2-2-0,75,142,762,4,5,4,-1,0,Iowa,College Stats
+35,1987,4,98,Rich Gannon\GannRi00,QB,21,NWE,1987,2004,2,4,8,99,157,132,76-56-0,2533,4206,28743,180,104,521,2449,21,Delaware,
+36,1987,4,110,Steve Beuerlein\BeueSt00,QB,22,RAI,1988,2003,0,1,4,69,147,102,47-55-0,1894,3328,24046,147,112,225,496,5,Notre Dame,College Stats
+37,1987,7,180,Kevin Sweeney\SweeKe00,QB,23,DAL,1987,1988,0,0,0,2,6,4,2-2-0,47,106,605,7,6,11,42,0,Fresno St.,College Stats
+38,1987,7,186,Doug Hudson\HudsDo20,QB,22,KAN,1987,1987,0,0,0,0,1,1,0-1-0,0,1,0,0,0,1,0,0,Nicholls St.,
+39,1987,8,216,Sammy Garza\GarzSa20,QB,22,SEA,1987,1987,0,0,0,1,2,1,0-1-0,11,20,183,1,2,8,31,1,Texas-El Paso,College Stats
+40,1987,10,255,Don Majkowski\MajkDo00,QB,23,GNB,1987,1996,0,1,4,39,90,57,26-30-1,1056,1905,12700,66,67,248,1114,12,Virginia,College Stats
+41,1987,11,295,Brent Pease\PeasBr00,QB,22,MIN,1987,1988,0,0,0,3,20,3,2-1-0,62,135,792,3,9,23,31,2,Montana,
+42,1987,11,307,Dave Walter\WaltDa20,QB,22,NYG,1987,1987,0,0,0,1,3,2,1-1-0,10,21,113,0,0,16,70,0,Michigan Tech,
+43,1986,1,3,Jim Everett\EverJi00,QB,23,HOU,1986,1997,0,1,10,87,158,153,64-89-0,2841,4923,34837,203,175,257,596,4,Purdue,College Stats
+44,1986,1,12,Chuck Long\LongCh00,QB,23,DET,1986,1991,0,0,1,11,27,21,4-17-0,331,607,3747,19,28,34,88,0,Iowa,College Stats
+45,1986,2,47,Jack Trudeau\TrudJa00,QB,23,IND,1986,1995,0,0,3,23,67,49,19-30-0,873,1644,10243,42,69,97,186,3,Illinois,College Stats
+46,1986,3,67,Bubby Brister\BrisBu00,QB,24,PIT,1986,2000,0,0,4,41,99,75,37-38-0,1207,2212,14445,81,78,191,546,8,La-Monroe,College Stats
+47,1986,3,71,Hugh Millen\MillHu00,QB,22,RAM,1987,1995,0,0,2,16,40,25,7-18-0,560,928,6440,22,35,65,260,1,Washington,College Stats
+48,1986,4,99,Doug Gaynor\GaynDo20,QB,23,CIN,1986,1986,0,0,0,0,1,0,,3,3,30,0,0,1,4,0,Long Beach St.,College Stats
+49,1986,6,146,Mark Rypien\RypiMa00,QB,23,WAS,1988,2001,0,2,5,56,104,78,47-31-0,1466,2613,18473,115,88,127,166,8,Washington St.,College Stats
+50,1986,6,150,Stan Gelbaugh\GelbSt00,QB,23,DAL,1989,1996,0,0,1,2,20,12,1-11-0,192,391,2100,10,22,28,108,0,Maryland,College Stats
+51,1986,7,174,Mike Norseth\NorsMi20,QB,22,CLE,1988,1988,0,0,0,0,1,0,,,,,,,1,5,0,Kansas,College Stats
+52,1986,11,291,David Norrie\NorrDa20,QB,22,SEA,1987,1987,0,0,0,1,2,2,0-2-0,35,68,376,1,4,5,5,0,UCLA,College Stats
+53,1986,12,312,Kent Austin\AustKe20,QB,23,STL,1986,1986,0,0,0,0,16,0,,,,,,,1,0,0,Mississippi,College Stats
+54,1986,12,313,Brian McClure\McClBr20,QB,22,BUF,1987,1987,0,0,0,1,1,1,1-0-0,20,38,181,0,3,2,4,0,Bowling Green,College Stats
+55,1986,12,316,Steve Bradley\BradSt20,QB,23,CIN,1987,1987,0,0,0,0,1,1,0-1-0,6,18,77,2,3,1,-3,0,Indiana,College Stats
+56,1985,2,37,Randall Cunningham\CunnRa00,QB,22,PHI,1985,2001,1,4,7,107,161,135,82-52-1,2429,4289,29979,207,134,775,4928,35,UNLV,College Stats
+57,1985,3,57,Frank Reich\ReicFr00,QB,23,BUF,1985,1998,0,0,1,15,118,20,5-15-0,508,932,6075,40,36,91,78,0,Maryland,College Stats
+58,1985,6,142,Steve Bono\BonoSt00,QB,23,MIN,1985,1999,0,1,2,32,88,42,28-14-0,934,1701,10439,62,42,125,257,7,UCLA,College Stats
+59,1985,6,143,Rusty Hilger\HilgRu00,QB,23,RAI,1985,1991,0,0,1,5,23,14,5-9-0,204,464,2584,11,19,35,91,0,Oklahoma St.,College Stats
+60,1985,11,285,Doug Flutie\FlutDo00,QB,22,RAM,1986,2005,0,1,4,51,92,66,38-28-0,1177,2151,14715,86,68,338,1634,10,Boston Col.,College Stats
+61,1985,11,294,Joe Shield\ShieJo20,QB,23,GNB,1986,1986,0,0,0,0,3,0,,,,,,,,,,Trinity (CT),
+62,1984,2,38,Boomer Esiason\EsiaBo00,QB,23,CIN,1984,1997,1,4,12,106,187,173,80-93-0,2969,5205,37920,247,184,447,1598,7,Maryland,College Stats
+63,1984,3,59,Jeff Hostetler\HostJe00,QB,23,NYG,1985,1997,0,1,6,56,152,83,51-32-0,1357,2338,16430,94,71,316,1391,17,West Virginia,College Stats
+64,1984,3,80,Rick McIvor\McIvRi20,QB,23,STL,1984,1985,0,0,0,0,6,0,,0,4,0,0,0,3,5,0,Texas,College Stats
+65,1984,3,83,Jay Schroeder\SchrJa00,QB,23,WAS,1985,1994,0,1,8,62,118,99,61-38-0,1426,2808,20063,114,108,242,761,5,UCLA,College Stats
+66,1984,5,113,Steve Pelluer\PellSt00,QB,22,DAL,1984,1990,0,0,2,24,65,30,9-20-1,548,974,6870,29,39,142,858,6,Washington,College Stats
+67,1984,5,138,Dean May\MayxDe20,QB,22,MIA,1984,1987,0,0,0,0,5,0,,1,6,33,0,1,2,-4,0,Louisville,College Stats
+68,1984,6,148,Ben Bennett\BennBe20,QB,22,ATL,1987,1987,0,0,0,0,1,0,,2,6,25,0,1,2,17,0,Duke,College Stats
+69,1984,6,153,Randy Wright\WrigRa00,QB,23,GNB,1984,1988,0,0,2,14,46,32,7-25-0,602,1119,7106,31,57,55,173,3,Wisconsin,College Stats
+70,1984,6,158,Terry Nugent\NugeTe20,QB,22,CLE,1987,1987,0,0,0,0,1,0,,3,5,47,0,0,2,1,0,Colorado St.,College Stats
+71,1984,6,160,John Witkowski\WitkJo00,QB,22,DET,1984,1988,0,0,0,1,5,1,0-1-0,13,35,210,0,0,8,33,0,Columbia,College Stats
+72,1984,7,191,Scott Campbell\CampSc00,QB,22,PIT,1984,1990,0,0,1,8,45,13,2-11-0,224,454,2983,19,25,43,170,2,Purdue,College Stats
+73,1984,11,281,Blair Kiel\KielBl00,QB,22,TAM,1984,1991,0,0,0,4,25,3,0-3-0,108,193,1296,8,7,16,105,1,Notre Dame,College Stats
+74,1984,11,296,Kyle Mackey\MackKy00,QB,22,STL,1987,1989,0,0,0,3,7,4,1-3-0,68,134,729,3,6,19,101,2,Texas A&M-Commerce,
+75,1983,1,1,John Elway HOF\ElwaJo00,QB,23,BAL,1983,1998,0,9,16,138,234,231,148-82-1,4123,7250,51475,300,226,774,3407,33,Stanford,College Stats
+76,1983,1,7,Todd Blackledge\BlacTo00,QB,22,KAN,1983,1989,0,0,0,12,46,29,15-14-0,424,881,5286,29,38,81,325,2,Penn St.,College Stats
+77,1983,1,14,Jim Kelly HOF\KellJi00,QB,23,BUF,1986,1996,1,5,11,103,160,160,101-59-0,2874,4779,35467,237,175,304,1049,7,Miami (FL),College Stats
+78,1983,1,15,Tony Eason\EasoTo00,QB,23,NWE,1983,1990,0,0,3,36,90,51,28-23-0,911,1564,11142,61,51,134,503,6,Illinois,College Stats
+79,1983,1,24,Ken O'Brien\OBriKe00,QB,22,NYJ,1984,1993,0,2,7,72,129,110,50-59-1,2110,3602,25094,128,98,174,394,0,California-Davis,
+80,1983,1,27,Dan Marino HOF\MariDa00,QB,21,MIA,1983,1999,3,9,16,145,242,240,147-93-0,4967,8358,61361,420,252,301,87,9,Pittsburgh,College Stats
+81,1983,5,137,Jeff Christensen\ChriJe20,QB,23,CIN,1983,1987,0,0,0,2,4,2,1-1-0,24,58,297,1,3,12,39,0,East. Illinois,
+82,1983,6,162,Reggie Collier\CollRe20,QB,22,DAL,1986,1987,0,0,0,1,6,1,0-1-0,12,22,206,3,3,10,73,0,Southern Miss,College Stats
+83,1983,6,168,Babe Laufenberg\LaufBa00,QB,23,WAS,1986,1990,0,0,0,4,16,7,2-5-0,93,211,1057,5,11,33,126,0,Indiana,College Stats
+84,1983,8,197,Gary Kubiak\KubiGa00,QB,22,DEN,1983,1991,0,0,0,7,119,5,3-2-0,173,298,1920,14,16,65,238,2,Texas A&M,College Stats
+85,1983,10,267,Tom Ramsey\RamsTo00,QB,22,NWE,1986,1989,0,0,0,5,28,5,2-3-0,108,214,1285,7,10,21,82,1,UCLA,College Stats
+86,1983,10,272,Bruce Mathison\MathBr00,QB,24,SDG,1983,1987,0,0,0,6,18,9,2-7-0,152,309,2177,7,20,34,245,1,Nebraska,College Stats
+87,1983,11,280,Jim Bob Taylor\TaylJi20,QB,23,BAL,1983,1983,0,0,0,0,8,0,,1,2,20,0,1,,,,Georgia Tech,College Stats
+88,1982,1,4,Art Schlichter\SchlAr00,QB,22,BAL,1982,1985,0,0,0,4,13,6,0-6-0,91,202,1006,3,11,22,161,1,Ohio St.,College Stats
+89,1982,1,5,Jim McMahon\McMaJi00,QB,23,CHI,1982,1996,0,1,9,57,119,97,67-30-0,1492,2573,18148,100,90,338,1631,16,BYU,College Stats
+90,1982,2,44,Oliver Luck\LuckOl00,QB,22,HOU,1983,1986,0,0,0,6,20,9,3-6-0,233,413,2544,13,21,44,237,1,West Virginia,College Stats
+91,1982,2,48,Matt Kofler\KoflMa00,QB,23,BUF,1982,1985,0,0,0,3,41,1,0-1-0,91,202,1156,7,11,20,159,1,San Diego St.,College Stats
+92,1982,4,84,Mike Pagel\PageMi00,QB,21,BAL,1982,1993,0,0,4,30,132,54,17-36-1,756,1509,9414,49,63,136,831,4,Arizona St.,College Stats
+93,1982,6,149,Mike Kelley\KellMi21,QB,22,ATL,1987,1987,0,0,0,1,3,1,1-0-0,17,29,305,1,0,4,17,0,Georgia Tech,College Stats
+94,1982,6,154,Mike Machurek\MachMi00,QB,22,DET,1984,1984,0,0,0,1,4,0,,14,43,193,0,6,1,9,0,Idaho St.,
+95,1982,9,251,Bryan Clark\ClarBr22,QB,22,SFO,1984,1984,0,0,0,0,1,0,,,,,,,,,,Michigan St.,College Stats
+96,1982,11,291,Bob Holly\HollBo00,QB,22,WAS,1983,1985,0,0,0,1,10,0,,25,40,300,1,2,7,49,1,Princeton,College Stats
+97,1981,1,6,Rich Campbell\CampRi00,QB,22,GNB,1981,1984,0,0,0,2,7,0,,31,68,386,3,9,2,2,0,California,College Stats
+98,1981,2,33,Neil Lomax\LomaNe00,QB,22,STL,1981,1988,0,2,7,71,108,101,47-52-2,1817,3153,22771,136,90,222,969,10,Portland St.,
+99,1981,4,90,Tom Flick\FlicTo00,QB,23,WAS,1981,1986,0,0,0,1,21,3,1-2-0,47,106,506,2,10,6,5,1,Washington,College Stats
+100,1981,4,98,Mark Herrmann\HerrMa00,QB,22,DEN,1982,1992,0,0,0,11,40,12,3-9-0,334,561,4015,16,36,35,-1,1,Purdue,College Stats
+101,1981,8,207,Mark Reed\ReedMa20,QB,22,NYG,1983,1983,0,0,0,0,1,0,,6,10,34,0,1,2,27,0,Moorhead State (MN),
+102,1981,8,210,Wade Wilson\WilsWa00,QB,22,MIN,1981,1998,0,1,4,51,125,69,36-33-0,1391,2428,17283,99,102,239,1025,9,Texas A&M-Commerce,
+103,1981,11,292,Rick Trocano\TrocRi20,QB,22,PIT,1981,1982,0,0,0,0,8,0,,,,,,,,,,Pittsburgh,College Stats
+104,1981,12,319,Bob Gagliano\GaglBo00,QB,23,KAN,1982,1992,0,0,0,13,32,13,7-6-0,249,486,3431,17,27,93,352,4,Utah St.,College Stats
+105,1980,1,15,Marc Wilson\WilsMa00,QB,23,OAK,1980,1990,0,0,5,35,126,60,32-28-0,1085,2081,14391,86,102,141,611,5,BYU,College Stats
+106,1980,1,28,Mark Malone\MaloMa00,QB,21,PIT,1980,1989,0,0,5,27,73,54,23-30-0,839,1648,10175,60,81,159,628,18,Arizona St.,College Stats
+107,1980,4,85,Eric Hipple\HippEr00,QB,22,DET,1980,1989,0,0,4,38,102,57,28-29-0,830,1546,10711,55,70,145,550,13,Utah St.,College Stats
+108,1980,4,89,Rusty Lisch\LiscRu00,QB,23,STL,1980,1984,0,0,0,2,30,2,0-1-0,55,115,547,1,11,20,130,0,Notre Dame,College Stats
+109,1980,4,101,Ed Luther\LuthEd00,QB,23,SDG,1980,1984,0,0,0,7,61,9,2-7-0,245,460,3187,12,23,20,-19,0,San Jose St.,College Stats
+110,1980,4,109,Paul McDonald\McDoPa00,QB,22,CLE,1980,1986,0,0,1,15,85,21,8-13-0,411,767,5269,24,37,37,6,1,USC,College Stats
+111,1980,5,133,Gary Hogeboom\HogeGa00,QB,22,DAL,1980,1989,0,0,2,22,79,37,18-19-0,743,1325,9436,49,60,83,161,4,Central Michigan,College Stats
+112,1980,6,145,Scott Brunner\BrunSc00,QB,23,NYG,1980,1985,0,0,2,17,73,30,12-18-0,512,1046,6457,29,54,72,137,1,Delaware,
+113,1980,7,182,Craig Bradshaw\BradCr20,QB,23,HOU,1980,1980,0,0,0,0,2,0,,,,,,,,,,Utah St.,College Stats
+114,1980,8,214,David Woodley\WoodDa00,QB,21,MIA,1980,1985,0,0,3,34,58,53,34-18-1,687,1300,8558,48,63,201,856,11,LSU,College Stats
+115,1980,9,242,Turk Schonert\SchoTu00,QB,23,CHI,1981,1989,0,0,0,12,72,12,7-5-0,311,504,3788,11,20,73,288,4,Stanford,College Stats
+116,1979,1,3,Jack Thompson\ThomJa00,QB,23,CIN,1979,1984,0,0,1,13,51,21,4-17-0,449,845,5315,33,45,70,262,6,Washington St.,College Stats
+117,1979,1,7,Phil Simms\SimmPh00,QB,23,NYG,1979,1993,0,2,11,91,164,159,95-64-0,2576,4647,33462,199,157,349,1252,6,Morehead St.,
+118,1979,1,23,Steve Fuller\FullSt00,QB,22,KAN,1979,1986,0,0,2,29,90,42,19-23-0,605,1066,7156,28,41,186,908,11,Clemson,College Stats
+119,1979,3,82,Joe Montana HOF\MontJo01,QB,23,SFO,1979,1994,3,8,12,123,192,164,117-47-0,3409,5391,40551,273,139,457,1676,20,Notre Dame,College Stats
+120,1979,4,97,Steve Dils\DilsSt00,QB,23,MIN,1979,1988,0,0,1,15,106,27,10-17-0,504,972,5816,27,32,45,71,1,Stanford,College Stats
+121,1979,5,116,Dan Manucci\ManuDa20,QB,22,BUF,1979,1987,0,0,0,0,19,1,0-1-0,12,27,132,0,2,7,35,0,Kansas St.,College Stats
+122,1979,5,133,Chuck Fusina\FusiCh00,QB,22,TAM,1979,1986,0,0,0,0,14,0,,22,37,198,1,2,11,28,0,Penn St.,College Stats
+123,1979,6,154,Mike Moroski\MoroMi00,QB,22,ATL,1979,1986,0,0,0,7,69,9,3-6-0,241,425,2864,8,18,37,182,2,California-Davis,
+124,1979,9,231,Jeff Komlo\KomlJe00,QB,23,DET,1979,1983,0,0,1,5,25,16,2-14-0,218,437,2603,12,28,38,121,2,Delaware,
+125,1979,9,246,Jeff Rutledge\RutlJe00,QB,22,RAM,1979,1992,0,0,0,7,117,10,2-7-1,274,526,3628,16,29,52,93,1,Alabama,College Stats
+126,1978,1,17,Doug Williams\WillDo01,QB,23,TAM,1978,1989,0,0,6,56,88,81,38-42-1,1240,2507,16998,100,93,220,884,15,Grambling St.,College Stats
+127,1978,2,50,Matt Cavanaugh\CavaMa00,QB,21,NWE,1979,1991,0,0,1,15,112,19,8-11-0,305,579,4332,28,30,60,213,3,Pittsburgh,College Stats
+128,1978,2,51,Guy Benjamin\BenjGu00,QB,23,MIA,1978,1983,0,0,0,1,19,0,,39,68,439,3,3,3,0,0,Stanford,College Stats
+129,1978,3,68,Mark Miller\MillMa00,QB,22,CLE,1978,1979,0,0,0,1,10,0,,15,47,243,1,5,8,61,1,Bowling Green,College Stats
+130,1978,3,73,Gifford Nielsen\NielGi00,QB,23,HOU,1978,1983,0,0,1,10,55,14,3-11-0,273,498,3255,20,22,29,89,0,BYU,College Stats
+131,1978,4,105,Mark Manges\MangMa20,QB,22,RAM,1978,1978,0,0,0,0,1,0,,,,,,,,,,Maryland,College Stats
+132,1978,5,131,Rob Hertel\HertRo20,QB,23,CIN,1978,1978,0,0,0,0,3,0,,1,4,9,0,0,1,0,0,USC,College Stats
+133,1978,8,200,Dennis Sproul\SproDe20,QB,22,GNB,1978,1978,0,0,0,0,6,0,,5,13,87,0,0,2,0,0,Arizona St.,College Stats
+134,1978,11,281,Pat Ryan\RyanPa00,QB,22,NYJ,1978,1991,0,0,1,13,145,19,11-8-0,364,657,4320,31,35,53,156,1,Tennessee,College Stats
+135,1978,12,333,Bill Kenney\KennBi00,QB,23,MIA,1980,1988,0,1,7,51,106,77,34-43-0,1330,2430,17277,105,86,123,191,5,Northern Colorado,
+136,1977,1,19,Steve Pisarkiewicz\PisaSt00,QB,23,STL,1978,1980,0,0,0,2,10,4,2-2-0,64,143,804,3,7,16,19,0,Missouri,College Stats
+137,1977,1,27,Tommy Kramer\KramTo00,QB,22,MIN,1977,1990,0,1,7,70,129,110,54-56-0,2012,3651,24777,159,158,214,531,8,Rice,College Stats
+138,1977,2,54,Glenn Carano\CaraGl00,QB,21,DAL,1978,1983,0,0,0,1,36,1,1-0-0,21,57,304,3,1,12,15,0,UNLV,
+139,1977,4,91,Vince Ferragamo\FerrVi00,QB,23,RAM,1977,1986,0,0,4,32,75,53,27-26-0,902,1615,11336,76,91,60,77,3,Nebraska,College Stats
+140,1977,5,117,Randy Dean\DeanRa00,QB,22,NYG,1977,1979,0,0,0,2,23,3,1-2-0,30,65,279,1,5,22,150,1,Northwestern,College Stats
+141,1977,5,121,Cliff Stoudt\StouCl00,QB,22,PIT,1980,1989,0,0,1,16,66,20,9-11-0,359,684,4506,23,43,122,661,4,Youngstown St.,
+142,1977,5,128,Cliff Olander\OlanCl00,QB,22,SDG,1977,1979,0,0,0,1,15,1,1-0-0,12,24,125,0,3,8,27,0,New Mexico St.,College Stats
+143,1977,6,140,Vince Evans\EvanVi00,QB,22,CHI,1977,1995,0,0,2,29,100,39,14-25-0,704,1390,9485,52,74,212,1129,14,USC,College Stats
+144,1977,6,160,Tom Duniven\DuniTo20,QB,23,CIN,1977,1977,0,0,0,0,1,0,,,,,,,,,,Texas Tech,College Stats
+145,1977,8,196,Randy Hedberg\HedbRa00,QB,22,TAM,1977,1977,0,0,0,1,7,4,0-4-0,25,90,244,0,10,9,35,0,Minot St.,
+146,1977,8,206,David Whitehurst\WhitDa02,QB,22,GNB,1977,1983,0,0,2,20,54,37,16-20-1,504,980,6205,28,51,77,242,7,Furman,College Stats
+147,1977,9,227,Matt Robinson\RobiMa01,QB,22,NYJ,1977,1982,0,0,1,12,69,20,10-10-0,244,523,3519,18,38,58,117,4,Georgia,College Stats
+148,1977,10,254,Sam Adkins\AdkiSa00,QB,22,SEA,1977,1981,0,0,0,2,11,0,,17,39,232,2,4,14,63,0,Wichita St.,College Stats
+149,1977,10,275,Steve DeBerg\DebeSt00,QB,23,DAL,1978,1998,0,0,11,79,206,140,53-86-1,2874,5024,34241,196,204,204,200,7,San Jose St.,
+150,1976,1,6,Richard Todd\ToddRi00,QB,22,NYJ,1976,1985,0,0,7,62,119,108,48-59-1,1610,2967,20610,124,161,259,932,14,Alabama,College Stats
+151,1976,2,47,Mike Kruczek\KrucMi00,QB,23,PIT,1976,1980,0,0,0,7,36,7,6-1-0,93,154,1185,0,8,37,138,2,Boston Col.,College Stats
+152,1976,2,50,Jeb Blount\BlouJe00,QB,22,OAK,1977,1977,0,0,0,1,5,4,0-4-0,37,89,522,0,7,5,26,0,Tulsa,
+153,1976,4,93,Steve Myer\MyerSt00,QB,22,SEA,1977,1979,0,0,0,4,12,4,1-3-0,83,160,851,6,14,9,11,0,New Mexico,
+154,1976,4,107,Craig Penrose\PenrCr00,QB,23,DEN,1976,1979,0,0,0,3,18,4,3-1-0,55,117,711,5,12,7,21,0,San Diego St.,College Stats
+155,1976,5,143,Mike Kirkland\KirkMi00,QB,22,BAL,1978,1978,0,0,0,1,16,2,0-2-0,19,41,211,1,8,8,35,0,Arkansas,College Stats
+156,1976,6,177,Scott Bull\BullSc00,QB,23,SFO,1976,1978,0,0,0,5,36,7,3-4-0,76,193,992,3,17,49,186,3,Arkansas,College Stats
+157,1976,7,183,Parnell Dickinson\DickPa00,QB,23,TAM,1976,1976,0,0,0,1,8,1,0-1-0,15,39,210,1,5,13,103,0,Miss. Valley St.,
+158,1976,12,333,Jerry Golsteyn\GolsJe00,QB,22,NYG,1977,1983,0,0,0,2,21,9,2-7-0,92,217,1077,2,13,10,-4,0,Northern Illinois,
+159,1975,1,1,Steve Bartkowski\BartSt00,QB,22,ATL,1975,1986,0,2,10,70,129,127,59-68-0,1932,3456,24124,156,144,178,239,11,California,College Stats
+160,1975,5,116,Steve Grogan\GrogSt00,QB,22,NWE,1975,1990,0,0,10,90,149,135,75-60-0,1879,3593,26886,182,208,445,2176,35,Kansas St.,College Stats
+161,1975,5,128,David Humm\HummDa00,QB,23,OAK,1975,1984,0,0,0,2,95,1,0-1-0,63,137,753,3,8,16,28,0,Nebraska,College Stats
+162,1975,6,135,Bob Avellini\AvelBo00,QB,22,CHI,1975,1984,0,0,3,28,73,50,23-27-0,560,1110,7111,33,69,104,225,5,Maryland,College Stats
+163,1975,7,160,Steve Joachim\JoacSt20,QB,23,BAL,1976,1976,0,0,0,0,1,0,,,,,,,,,,Temple,College Stats
+164,1975,7,176,Pat Haden\HadePa00,QB,22,RAM,1976,1981,0,1,4,33,65,55,35-19-1,731,1363,9296,52,60,124,609,6,USC,College Stats
+165,1975,12,296,Carlos Brown\BrowCa00,QB,23,GNB,1975,1976,0,0,0,2,26,3,0-3-0,29,78,396,3,6,12,49,0,Pacific,College Stats
+166,1975,17,423,Neal Jeffrey\JeffNe00,QB,22,SDG,1976,1976,0,0,0,0,5,0,,2,2,11,0,0,1,0,0,Baylor,College Stats
+167,1974,3,53,Danny White\WhitDa01,QB,22,DAL,1976,1988,0,1,6,84,166,92,62-30-0,1761,2950,21959,155,132,159,482,8,Arizona St.,College Stats
+168,1974,3,66,David Jaynes\JaynDa00,QB,21,KAN,1974,1974,0,0,0,0,2,0,,0,2,0,0,1,1,0,0,Kansas,College Stats
+169,1974,3,69,Kim McQuilken\McQuKi00,QB,23,ATL,1974,1979,0,0,0,4,26,7,2-5-0,108,272,1135,4,29,19,49,0,Lehigh,
+170,1974,3,70,Gary Marangi\MaraGa00,QB,22,BUF,1974,1976,0,0,1,3,19,7,0-7-0,104,283,1373,12,21,50,328,2,Boston Col.,College Stats
+171,1974,4,80,Carl Summerell\SummCa00,QB,22,NYG,1974,1975,0,0,0,0,10,0,,13,29,157,0,5,5,12,0,East Carolina,College Stats
+172,1974,4,87,Mike Boryla\BoryMi00,QB,23,CIN,1974,1978,0,1,1,8,23,19,8-11-0,272,519,2838,20,29,43,224,2,Stanford,College Stats
+173,1974,4,99,Norris Weese\WeesNo00,QB,23,RAM,1976,1979,0,0,0,9,57,7,5-2-0,143,251,1887,7,14,69,362,5,Mississippi,College Stats
+174,1974,6,133,Jesse Freitas\FreiJe00,QB,22,SDG,1974,1975,0,0,0,5,13,7,2-5-0,98,219,1244,8,13,17,72,0,San Diego St.,College Stats
+175,1974,13,316,Joe Barnes\BarnJo01,QB,22,CHI,1974,1974,0,0,0,0,3,0,,2,9,29,0,1,1,19,0,Texas Tech,College Stats
+176,1974,13,322,Tom Owen\OwenTo00,QB,22,SFO,1974,1981,0,0,1,9,26,9,4-5-0,170,349,2300,14,26,19,36,1,Wichita St.,College Stats
+177,1974,15,373,Larry Cipa\CipaLa00,QB,22,NOR,1974,1975,0,0,0,1,8,3,1-2-0,34,92,424,1,3,18,37,1,Michigan,College Stats
+178,1973,1,2,Bert Jones\JoneBe00,QB,22,BAL,1973,1982,1,1,6,81,102,96,47-49-0,1430,2551,18190,124,101,247,1429,14,LSU,College Stats
+179,1973,2,33,Gary Huff\HuffGa00,QB,22,CHI,1973,1978,0,0,3,10,57,28,7-21-0,392,788,4329,16,50,50,86,2,Florida St.,College Stats
+180,1973,2,37,Ron Jaworski\JawoRo00,QB,22,RAM,1974,1989,0,1,10,84,188,143,73-69-1,2187,4117,28190,179,164,257,859,16,Youngstown St.,
+181,1973,2,45,Gary Keithley\KeitGa00,QB,22,STL,1973,1973,0,0,0,3,14,2,1-1-0,32,73,369,1,5,8,29,0,Texas-El Paso,College Stats
+182,1973,3,57,Joe Ferguson\FergJo00,QB,23,BUF,1973,1990,0,0,11,81,186,171,79-92-0,2369,4519,29817,196,209,353,1217,11,Arkansas,College Stats
+183,1973,3,64,Dan Fouts HOF\FoutDa00,QB,22,SDG,1973,1987,2,6,14,122,181,171,86-84-1,3297,5604,43040,254,242,224,476,13,Oregon,College Stats
+184,1973,4,80,Mike Wells\WellMi21,QB,22,MIN,1977,1977,0,0,0,0,7,0,,,,,,,,,,Illinois,College Stats
+185,1973,5,111,Don Strock\StroDo00,QB,22,MIA,1974,1988,0,0,0,18,167,22,16-6-0,443,779,5349,45,42,57,18,2,Virginia Tech,College Stats
+186,1973,8,205,Mike Rae\RaexMi00,QB,22,OAK,1976,1979,0,0,0,9,28,8,4-4-0,124,249,1536,12,14,44,300,2,USC,College Stats
+187,1973,14,343,Tony Adams\AdamTo00,QB,23,SDG,1975,1987,0,0,0,9,53,10,1-9-0,212,408,2733,12,27,38,155,0,Utah St.,
+188,1973,14,348,John Hufnagel\HufnJo00,QB,21,DEN,1974,1975,0,0,0,2,9,1,0-1-0,22,61,357,1,9,10,69,0,Penn St.,College Stats
+189,1973,14,357,Dennis Morrison\MorrDe00,QB,22,SFO,1974,1974,0,0,0,1,3,2,0-2-0,21,51,227,1,5,1,0,0,Kansas St.,College Stats
+190,1972,1,11,Jerry Tagge\TaggJe00,QB,22,GNB,1972,1974,0,0,1,8,18,12,6-6-0,136,281,1583,3,17,41,117,3,Nebraska,College Stats
+191,1972,1,14,John Reaves\ReavJo00,QB,22,PHI,1972,1987,0,0,0,10,51,17,4-13-0,286,616,3617,17,34,44,195,3,Florida,College Stats
+192,1972,2,40,Pat Sullivan\SullPa00,QB,22,ATL,1972,1975,0,0,0,3,30,4,0-4-0,93,220,1155,5,16,14,55,0,Auburn,College Stats
+193,1972,7,179,Dean Carlson\CarlDe00,QB,22,KAN,1974,1974,0,0,0,0,1,0,,7,15,116,0,1,2,17,0,Iowa St.,College Stats
+194,1972,11,273,Joe Gilliam\GillJo00,QB,21,PIT,1972,1975,0,0,0,10,20,7,4-2-1,147,331,2103,9,17,22,64,1,Tennessee St.,
+195,1972,13,330,Brian Sipe\SipeBr00,QB,23,CLE,1974,1983,1,1,8,75,125,112,57-55-0,1944,3439,23713,154,149,223,762,11,San Diego St.,
+196,1972,16,414,Neil Graff\GrafNe00,QB,22,MIN,1974,1977,0,0,0,1,29,2,0-2-0,25,48,288,2,3,7,5,0,Wisconsin,College Stats
+197,1971,1,1,Jim Plunkett\PlunJi00,QB,23,NWE,1971,1986,0,0,10,85,157,144,72-72-0,1943,3701,25882,164,198,323,1337,14,Stanford,College Stats
+198,1971,1,2,Archie Manning\MannAr00,QB,22,NOR,1971,1984,0,2,11,75,151,139,35-101-3,2011,3642,23911,125,173,384,2197,18,Mississippi,College Stats
+199,1971,1,3,Dan Pastorini\PastDa00,QB,22,HOU,1971,1983,0,1,9,60,140,117,56-61-0,1556,3055,18515,103,161,216,685,8,Santa Clara,
+200,1971,3,56,Lynn Dickey\DickLy00,QB,21,HOU,1971,1985,0,0,8,65,152,111,45-63-3,1747,3125,23322,141,179,140,121,9,Kansas St.,College Stats
+201,1971,3,59,Leo Hart\HartLe00,QB,22,ATL,1971,1972,0,0,0,0,3,1,0-1-0,6,16,53,0,3,5,19,0,Duke,College Stats
+202,1971,3,67,Ken Anderson\AndeKe00,QB,22,CIN,1971,1986,1,4,13,121,192,172,91-81-0,2654,4475,32838,197,160,397,2220,20,Augustana (IL),
+203,1971,4,99,Joe Theismann\TheiJo00,QB,21,MIA,1974,1985,1,2,8,87,167,124,77-47-0,2044,3602,25206,160,138,355,1815,17,Notre Dame,College Stats
+204,1971,6,140,Scott Hunter\HuntSc00,QB,23,GNB,1971,1979,0,0,4,20,64,42,21-18-3,335,748,4756,23,38,95,204,13,Alabama,College Stats
+205,1971,11,283,Joe Reed\ReedJo00,QB,23,SFO,1972,1979,0,0,1,12,50,19,9-10-0,225,513,2825,18,31,84,484,2,Mississippi St.,College Stats
+206,1971,14,340,Bobby Scott\ScotBo00,QB,22,NOR,1973,1981,0,0,1,9,41,14,4-10-0,237,500,2781,15,28,30,74,1,Tennessee,College Stats
+207,1970,1,1,Terry Bradshaw HOF\BradTe00,QB,22,PIT,1970,1983,1,3,13,106,168,158,107-51-0,2025,3901,27989,212,210,444,2257,32,Louisiana Tech,
+208,1970,1,3,Mike Phipps\PhipMi00,QB,22,CLE,1970,1981,0,0,5,40,119,71,38-31-2,886,1799,10506,55,108,254,1278,13,Purdue,College Stats
+209,1970,2,30,Dennis Shaw\ShawDe00,QB,23,BUF,1970,1975,0,0,3,19,50,37,8-27-2,489,924,6347,35,68,95,420,0,San Diego St.,College Stats
+210,1970,2,51,Bill Cappleman\CappBi00,QB,23,MIN,1970,1973,0,0,0,0,8,0,,9,18,82,0,1,1,-2,0,Florida St.,College Stats
+211,1970,5,126,Steve Ramsey\RamsSt00,QB,22,NOR,1970,1976,0,0,2,23,54,31,14-17-0,456,921,6437,35,58,33,108,2,North Texas,College Stats
+212,1970,8,198,Wayne Clark\ClarWa00,QB,23,SDG,1970,1975,0,0,0,2,40,5,1-4-0,52,120,745,0,14,16,86,1,U.S. International,
+213,1970,10,251,Frank Patrick\PatrFr00,QB,23,GNB,1970,1972,0,0,0,0,4,0,,8,23,107,0,2,2,5,0,Nebraska,College Stats
