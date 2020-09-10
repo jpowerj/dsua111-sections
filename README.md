@@ -1,0 +1,21 @@
+# DSUA111: Data Science for Everyone, Fall 2020, NYU
+
+## Jeff's Friday Sections
+
+## `jpj251@nyu.edu`
+
+**NOTE**: The .html files for the slides do not render within GitHub. So, to view the .html version of the slides you'll need to download the .html file to your local computer and open it in your browser. Otherwise, you can follow along using the "raw" Jupyter notebook (the `Week_<N>.ipynb` file, which GitHub *will* render directly in the interface here) or the `Week_<N> slides.pdf` file which is just the HTML-format slides exported to a PDF file (which GitHub is also able to render from within their interface).
+
+---
+
+## Week 0: Introduction
+
+* [Jupyter Notebook](Week_00/Week_00.ipynb)
+* [PDF Slides](Week_00/Week_00 slides.pdf)
+* [HTML Slides (see note above)](Week_00/Week_00.slides.html)
+
+## Week 1: Python
+
+## Week 2: 
+
+## Week 3:
