@@ -23,9 +23,9 @@
 
 ## Week 0: Introduction
 
-* [Jupyter Notebook](Week_00/Week_00.ipynb)
-* [PDF Slides](Week_00/Week_00 slides.pdf)
-* [HTML Slides (see note above)](Week_00/Week_00.slides.html)
+* [Jupyter Notebook](Week_00_2020-09-04/Week_00.ipynb)
+* [PDF Slides](Week_00_2020-09-04/Week_00_slides.pdf)
+* [HTML Slides (see note above)](Week_00_2020-09-04/Week_00_slides.html)
 
 ## Week 1: Python
 
