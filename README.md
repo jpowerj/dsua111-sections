@@ -29,6 +29,10 @@
 
 ## Week 1: Python
 
+* [Jupyter Notebook](Week_01_2020-09-11/Week_01.ipynb)
+* [PDF Slides](Week_01_2020-09-11/Week_01_slides.pdf)
+* [HTML Slides (see note above)](Week_01_2020-09-11/Week_01_slides.html)
+
 ## Week 2: 
 
 ## Week 3:
