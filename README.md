@@ -21,18 +21,20 @@
 
 ---
 
-## Week 0: Introduction
+## Week 0: Introduction to the Course
 
 * [Jupyter Notebook](Week_00_2020-09-04/Week_00.ipynb)
 * [PDF Slides](Week_00_2020-09-04/Week_00_slides.pdf)
 * [HTML Slides (see note above)](Week_00_2020-09-04/Week_00_slides.html)
 
-## Week 1: Python
+## Week 1: Introduction to Python
 
 * [Jupyter Notebook](Week_01_2020-09-11/Week_01.ipynb)
 * [PDF Slides](Week_01_2020-09-11/Week_01_slides.pdf)
 * [HTML Slides (see note above)](Week_01_2020-09-11/Week_01_slides.html)
 
-## Week 2: 
+## Week 2: Python Data Type
 
-## Week 3:
+* [Jupyter Notebook](Week_02_2020-09-18/Week_02.ipynb)
+* [PDF Slides](Week_02_2020-09-18/Week_02_slides.pdf)
+* [HTML Slides (see note above)](Week_02_2020-09-18/Week_02_slides.html)
