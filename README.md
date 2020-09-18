@@ -33,7 +33,7 @@
 * [PDF Slides](Week_01_2020-09-11/Week_01_slides.pdf)
 * [HTML Slides (see note above)](Week_01_2020-09-11/Week_01_slides.html)
 
-## Week 2: Python Data Type
+## Week 2: Python Data Types
 
 * [Jupyter Notebook](Week_02_2020-09-18/Week_02.ipynb)
 * [PDF Slides](Week_02_2020-09-18/Week_02_slides.pdf)
