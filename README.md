@@ -21,20 +21,26 @@
 
 ---
 
-## Week 0: Introduction to the Course
+## Week 0 (2020-09-04): Introduction to the Course
 
 * [Jupyter Notebook](Week_00_2020-09-04/Week_00.ipynb)
 * [PDF Slides](Week_00_2020-09-04/Week_00_slides.pdf)
 * [HTML Slides (see note above)](Week_00_2020-09-04/Week_00_slides.html)
 
-## Week 1: Introduction to Python
+## Week 1 (2020-09-11): Introduction to Python
 
 * [Jupyter Notebook](Week_01_2020-09-11/Week_01.ipynb)
 * [PDF Slides](Week_01_2020-09-11/Week_01_slides.pdf)
 * [HTML Slides (see note above)](Week_01_2020-09-11/Week_01_slides.html)
 
-## Week 2: Python Data Types
+## Week 2 (2020-09-18): Python Data Types
 
 * [Jupyter Notebook](Week_02_2020-09-18/Week_02.ipynb)
 * [PDF Slides](Week_02_2020-09-18/Week_02_slides.pdf)
 * [HTML Slides (see note above)](Week_02_2020-09-18/Week_02_slides.html)
+
+## Week 3 (2020-09-25): Causality and the Scientific Method
+
+* [Jupyter Notebook](Week_03_2020-09-25/Week_03.ipynb)
+* [PDF Slides](Week_03_2020-09-25/Week_03_slides.pdf)
+* [HTML Slides (see note above)](Week_03_2020-09-25/Week_03_slides.html)
