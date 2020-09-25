@@ -41,6 +41,7 @@
 
 ## Week 3 (2020-09-25): Causality and the Scientific Method
 
+* [Slideshow](https://jjacobs.me/dsua111_week_03)
 * [Jupyter Notebook](Week_03_2020-09-25/Week_03.ipynb)
 * [PDF Slides](Week_03_2020-09-25/Week_03_slides.pdf)
 * [HTML Slides (see note above)](Week_03_2020-09-25/Week_03_slides.html)
