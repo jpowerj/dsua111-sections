@@ -23,11 +23,11 @@
 
 ## Section Slides
 
-**[Week 0 (2020-09-04): Introduction to the Course](#week-0-2020-09-04-introduction-to-the-course)**
-1. [Week 1 (2020-09-11): Introduction to Python](#week-1-2020-09-11-introduction-to-python)
-2. [Week 2 (2020-09-18): Python Data Types](#week-2-2020-09-18-python-data-types)
-3. [Week 3 (2020-09-25): Causality and the Scientific Method](#week-3-2020-09-25-causality-and-the-scientific-method)
-4. [Week 4 (2020-10-02): Causality Wrap-Up, Python Sequences and Libraries](#week-4-2020-10-02-causality-wrap-up-python-sequences-and-libraries)
+* **[Week 0 (2020-09-04): Introduction to the Course](#week-0-2020-09-04-introduction-to-the-course)**
+* **[Week 1 (2020-09-11): Introduction to Python](#week-1-2020-09-11-introduction-to-python)**
+* **[Week 2 (2020-09-18): Python Data Types](#week-2-2020-09-18-python-data-types)**
+* **[Week 3 (2020-09-25): Causality and the Scientific Method](#week-3-2020-09-25-causality-and-the-scientific-method)**
+* **[Week 4 (2020-10-02): Causality Wrap-Up, Python Sequences and Libraries](#week-4-2020-10-02-causality-wrap-up-python-sequences-and-libraries)**
 
 ### Week 0 (2020-09-04): Introduction to the Course
 
