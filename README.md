@@ -23,7 +23,7 @@
 
 ## Section Slides
 
-0. [Week 0](#week-0)
+0. [Week 0](#week-0-2020-09-04-introduction-to-the-course)
 1. Week 1
 2. Week 2
 3. Week 3
