@@ -35,11 +35,15 @@
 * [PDF Slides](Week_00_2020-09-04/Week_00_slides.pdf)
 * [HTML Slides (see note above)](Week_00_2020-09-04/Week_00_slides.html)
 
+[[back to top]](#section-slides)
+
 ### Week 1 (2020-09-11): Introduction to Python
 
 * [Jupyter Notebook](Week_01_2020-09-11/Week_01.ipynb)
 * [PDF Slides](Week_01_2020-09-11/Week_01_slides.pdf)
 * [HTML Slides (see note above)](Week_01_2020-09-11/Week_01_slides.html)
+
+[[back to top]](#section-slides)
 
 ### Week 2 (2020-09-18): Python Data Types
 
@@ -47,11 +51,15 @@
 * [PDF Slides](Week_02_2020-09-18/Week_02_slides.pdf)
 * [HTML Slides (see note above)](Week_02_2020-09-18/Week_02_slides.html)
 
+[[back to top]](#section-slides)
+
 ### Week 3 (2020-09-25): Causality and the Scientific Method
 
 * [Slideshow](https://jjacobs.me/dsua111_week_03)
 * [Jupyter Notebook](Week_03_2020-09-25/Week_03.ipynb)
 * [PDF Slides](Week_03_2020-09-25/Week_03_slides.pdf)
+
+[[back to top]](#section-slides)
 
 ### Week 4 (2020-10-02): Causality Wrap-Up, Python Sequences and Libraries
 
