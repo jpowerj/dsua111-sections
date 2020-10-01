@@ -31,59 +31,76 @@
 
 ### Week 0 (2020-09-04): Introduction to the Course
 
-* [Jupyter Notebook](Week_00_2020-09-04/Week_00.ipynb)
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-00)
 * [PDF Slides](Week_00_2020-09-04/Week_00_slides.pdf)
-* [HTML Slides (see note above)](Week_00_2020-09-04/Week_00_slides.html)
+* [Jupyter Notebook](Week_00_2020-09-04/Week_00.ipynb)
 
 [[back to top]](#section-slides)
 
 ### Week 1 (2020-09-11): Introduction to Python
 
-* [Jupyter Notebook](Week_01_2020-09-11/Week_01.ipynb)
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-01)
 * [PDF Slides](Week_01_2020-09-11/Week_01_slides.pdf)
-* [HTML Slides (see note above)](Week_01_2020-09-11/Week_01_slides.html)
+* [Jupyter Notebook](Week_01_2020-09-11/Week_01.ipynb)
 
 [[back to top]](#section-slides)
 
 ### Week 2 (2020-09-18): Python Data Types
 
-* [Jupyter Notebook](Week_02_2020-09-18/Week_02.ipynb)
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-02)
 * [PDF Slides](Week_02_2020-09-18/Week_02_slides.pdf)
-* [HTML Slides (see note above)](Week_02_2020-09-18/Week_02_slides.html)
+* [Jupyter Notebook](Week_02_2020-09-18/Week_02.ipynb)
 
 [[back to top]](#section-slides)
 
 ### Week 3 (2020-09-25): Causality and the Scientific Method
 
-* [Slideshow](https://jjacobs.me/dsua111_week_03)
-* [Jupyter Notebook](Week_03_2020-09-25/Week_03.ipynb)
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-03)
 * [PDF Slides](Week_03_2020-09-25/Week_03_slides.pdf)
+* [Jupyter Notebook](Week_03_2020-09-25/Week_03.ipynb)
 
 [[back to top]](#section-slides)
 
 ### Week 4 (2020-10-02): Causality Wrap-Up, Python Sequences and Libraries
 
-* [Slideshow](https://jjacobs.me/dsua111_week_04)
-* [Jupyter Notebook](Week_04_2020-10-02/Week_04.ipynb)
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-04)
 * [PDF Slides](Week_04_2020-10-02/Week_04_slides.pdf)
+* [Jupyter Notebook](Week_04_2020-10-02/Week_04.ipynb)
 
 [[back to top]](#section-slides)
 
 ### Week 5 (2020-10-09)
 
+[[back to top]](#section-slides)
+
 ### Week 6 (2020-10-16)
+
+[[back to top]](#section-slides)
 
 ### Week 7 (2020-10-23)
 
+[[back to top]](#section-slides)
+
 ### Week 8 (2020-10-30)
+
+[[back to top]](#section-slides)
 
 ### Week 9 (2020-11-06)
 
+[[back to top]](#section-slides)
+
 ### Week 10 (2020-11-13)
+
+[[back to top]](#section-slides)
 
 ### Week 11 (2020-11-20)
 
+[[back to top]](#section-slides)
+
 ### Week 12 (2020-11-27)
+
+[[back to top]](#section-slides)
 
 ### Week 13 (2020-12-04)
 
+[[back to top]](#section-slides)
