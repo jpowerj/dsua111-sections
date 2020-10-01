@@ -59,7 +59,7 @@
 * [Jupyter Notebook](Week_04_2020-10-02/Week_04.ipynb)
 * [PDF Slides](Week_04_2020-10-02/Week_04_slides.pdf)
 
-[back to top](#section-slides)
+[[back to top]](#section-slides)
 
 ### Week 5 (2020-10-09)
 
