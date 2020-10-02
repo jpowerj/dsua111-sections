@@ -32,7 +32,7 @@
 ### Week 0 (2020-09-04): Introduction to the Course
 
 * [Slideshow](https://jjacobs.me/dsua111-sections/week-00)
-* [PDF Slides](Week_00_2020-09-04/Week_00_slides.pdf)
+* [PDF Slides](Week_00_2020-09-04/Week_00.slides.pdf)
 * [Jupyter Notebook](Week_00_2020-09-04/Week_00.ipynb)
 
 [[back to top]](#section-slides)
@@ -40,7 +40,7 @@
 ### Week 1 (2020-09-11): Introduction to Python
 
 * [Slideshow](https://jjacobs.me/dsua111-sections/week-01)
-* [PDF Slides](Week_01_2020-09-11/Week_01_slides.pdf)
+* [PDF Slides](Week_01_2020-09-11/Week_01.slides.pdf)
 * [Jupyter Notebook](Week_01_2020-09-11/Week_01.ipynb)
 
 [[back to top]](#section-slides)
@@ -48,7 +48,7 @@
 ### Week 2 (2020-09-18): Python Data Types
 
 * [Slideshow](https://jjacobs.me/dsua111-sections/week-02)
-* [PDF Slides](Week_02_2020-09-18/Week_02_slides.pdf)
+* [PDF Slides](Week_02_2020-09-18/Week_02.slides.pdf)
 * [Jupyter Notebook](Week_02_2020-09-18/Week_02.ipynb)
 
 [[back to top]](#section-slides)
@@ -56,7 +56,7 @@
 ### Week 3 (2020-09-25): Causality and the Scientific Method
 
 * [Slideshow](https://jjacobs.me/dsua111-sections/week-03)
-* [PDF Slides](Week_03_2020-09-25/Week_03_slides.pdf)
+* [PDF Slides](Week_03_2020-09-25/Week_03.slides.pdf)
 * [Jupyter Notebook](Week_03_2020-09-25/Week_03.ipynb)
 
 [[back to top]](#section-slides)
@@ -64,7 +64,7 @@
 ### Week 4 (2020-10-02): Causality Wrap-Up, Python Sequences and Libraries
 
 * [Slideshow](https://jjacobs.me/dsua111-sections/week-04)
-* [PDF Slides](Week_04_2020-10-02/Week_04_slides.pdf)
+* [PDF Slides](Week_04_2020-10-02/Week_04.slides.pdf)
 * [Jupyter Notebook](Week_04_2020-10-02/Week_04.ipynb)
 
 [[back to top]](#section-slides)
