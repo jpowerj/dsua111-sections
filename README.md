@@ -69,7 +69,11 @@
 
 [[back to top]](#section-slides)
 
-### Week 5 (2020-10-09)
+### Week 5 (2020-10-09): Pandas!
+
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-05)
+* [PDF Slides](Week_05_2020-10-09/Week_05.slides.pdf)
+* [Jupyter Notebook](Week_05_2020-10-09/Week_05.ipynb)
 
 [[back to top]](#section-slides)
 
