@@ -79,7 +79,7 @@
 
 [[back to top]](#section-slides)
 
-### Week 6 (2020-10-16)
+### Week 6 (2020-10-16): Descriptive Statistics and Data Visualization
 
 * [Slideshow](https://jjacobs.me/dsua111-sections/week-06)
 * [PDF Slides](Week_06_2020-10-16/Week_06.slides.pdf)
