@@ -28,6 +28,8 @@
 * **[Week 2 (2020-09-18): Python Data Types](#week-2-2020-09-18-python-data-types)**
 * **[Week 3 (2020-09-25): Causality and the Scientific Method](#week-3-2020-09-25-causality-and-the-scientific-method)**
 * **[Week 4 (2020-10-02): Causality Wrap-Up, Python Sequences and Libraries](#week-4-2020-10-02-causality-wrap-up-python-sequences-and-libraries)**
+* **[Week 5 (2020-10-09): Pandas!](#week-5-2020-10-09-pandas)**
+* **[Week 6 (2020-10-16): Descriptive Statistics and Data Visualization](#week-6-2020-10-16-descriptive-statistics-and-data-visualization)**
 
 ### Week 0 (2020-09-04): Introduction to the Course
 
@@ -78,6 +80,10 @@
 [[back to top]](#section-slides)
 
 ### Week 6 (2020-10-16)
+
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-06)
+* [PDF Slides](Week_06_2020-10-16/Week_06.slides.pdf)
+* [Jupyter Notebook](Week_06_2020-10-16/Week_06.ipynb)
 
 [[back to top]](#section-slides)
 
