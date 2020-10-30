@@ -30,6 +30,7 @@
 * **[Week 4 (2020-10-02): Causality Wrap-Up, Python Sequences and Libraries](#week-4-2020-10-02-causality-wrap-up-python-sequences-and-libraries)**
 * **[Week 5 (2020-10-09): Pandas!](#week-5-2020-10-09-pandas)**
 * **[Week 6 (2020-10-16): Descriptive Statistics and Data Visualization](#week-6-2020-10-16-descriptive-statistics-and-data-visualization)**
+* **[Week 7 (2020-10-30): Python Functions and Control Flow, Law of Large Numbers](#week-7-2020-10-30-python-functions-and-control-flow-law-of-large-numbers)**
 
 ### Week 0 (2020-09-04): Introduction to the Course
 
@@ -87,30 +88,30 @@
 
 [[back to top]](#section-slides)
 
-### Week 7 (2020-10-23)
+### Week 7 (2020-10-30): Python Functions and Control Flow, Law of Large Numbers
+
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-07)
+* [PDF Slides](Week_07_2020-10-30/Week_07.slides.pdf)
+* [Jupyter Notebook](Week_07_2020-10-30/Week_07.ipynb)
 
 [[back to top]](#section-slides)
 
-### Week 8 (2020-10-30)
+### Week 8 (2020-11-06)
 
 [[back to top]](#section-slides)
 
-### Week 9 (2020-11-06)
+### Week 9 (2020-11-13)
 
 [[back to top]](#section-slides)
 
-### Week 10 (2020-11-13)
+### Week 10 (2020-11-20)
 
 [[back to top]](#section-slides)
 
-### Week 11 (2020-11-20)
+### Week 11 (2020-11-27)
 
 [[back to top]](#section-slides)
 
-### Week 12 (2020-11-27)
-
-[[back to top]](#section-slides)
-
-### Week 13 (2020-12-04)
+### Week 12 (2020-12-04)
 
 [[back to top]](#section-slides)
