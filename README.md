@@ -14,7 +14,7 @@
 ### Jeff's Office Hours
 
 * Wednesdays 5-6pm EDT
-* [Google Calendar link](https://calendar.google.com/event?action=TEMPLATE&tmeid=MGo4YzhkcTA0djhhYzdvZzhlMzQyZm1wM2ZfMjAyMDA5MDlUMjEwMDAwWiBqam1haWwxMTFAbQ&tmsrc=jjmail111%40gmail.com&scp=ALL)
+* [Sign up for 15-minute slot here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJBNjZKVE5ubTJvfGRlZmF1bHR8ODI1ODMyODM3N2NlODc0Y2I5MjhlMmUxMzAzMjM1NDA)
 * [Zoom link](https://nyu.zoom.us/j/6821254378)
 
 **NOTE**: Please use the "Slideshow" link to follow along with the slides during sections. If the link is not working for whatever reason, you can follow along with the slides using the "Jupyter Notebook" link (since the slideshow is compiled from this Jupyter notebook).
@@ -31,6 +31,7 @@
 * **[Week 5 (2020-10-09): Pandas!](#week-5-2020-10-09-pandas)**
 * **[Week 6 (2020-10-16): Descriptive Statistics and Data Visualization](#week-6-2020-10-16-descriptive-statistics-and-data-visualization)**
 * **[Week 7 (2020-10-30): Python Functions and Control Flow, Law of Large Numbers](#week-7-2020-10-30-python-functions-and-control-flow-law-of-large-numbers)**
+* **[Week 8 (2020-11-06): Hypothesis Testing, Correlation vs. Causation](#week-8-2020-11-06-hypothesis-testing-correlation-vs-causation)**
 
 ### Week 0 (2020-09-04): Introduction to the Course
 
@@ -96,7 +97,11 @@
 
 [[back to top]](#section-slides)
 
-### Week 8 (2020-11-06)
+### Week 8 (2020-11-06): Hypothesis Testing, Correlation vs. Causation
+
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-08)
+* [PDF Slides](Week_08_2020-11-06/Week_08.slides.pdf)
+* [Jupyter Notebook](Week_08_2020-11-06/Week_08.ipynb)
 
 [[back to top]](#section-slides)
 
