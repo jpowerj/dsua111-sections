@@ -32,6 +32,7 @@
 * **[Week 6 (2020-10-16): Descriptive Statistics and Data Visualization](#week-6-2020-10-16-descriptive-statistics-and-data-visualization)**
 * **[Week 7 (2020-10-30): Python Functions and Control Flow, Law of Large Numbers](#week-7-2020-10-30-python-functions-and-control-flow-law-of-large-numbers)**
 * **[Week 8 (2020-11-06): Hypothesis Testing, Correlation vs. Causation](#week-8-2020-11-06-hypothesis-testing-correlation-vs-causation)**
+* **[Week 9 (2020-11-13): Linear Regression!](#week-9-2020-11-13-linear-regression)**
 
 ### Week 0 (2020-09-04): Introduction to the Course
 
@@ -105,7 +106,11 @@
 
 [[back to top]](#section-slides)
 
-### Week 9 (2020-11-13)
+### Week 9 (2020-11-13): Linear Regression!
+
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-09)
+* [PDF Slides](Week_09_2020-11-13/Week_09.slides.pdf)
+* [Jupyter Notebook](Week_09_2020-11-13/Week_09.ipynb)
 
 [[back to top]](#section-slides)
 
