@@ -33,6 +33,7 @@
 * **[Week 7 (2020-10-30): Python Functions and Control Flow, Law of Large Numbers](#week-7-2020-10-30-python-functions-and-control-flow-law-of-large-numbers)**
 * **[Week 8 (2020-11-06): Hypothesis Testing, Correlation vs. Causation](#week-8-2020-11-06-hypothesis-testing-correlation-vs-causation)**
 * **[Week 9 (2020-11-13): Linear Regression!](#week-9-2020-11-13-linear-regression)**
+* **[Week 10 (2020-11-20): Evaluating and Interpreting Linear Regression, Machine Learning](#week-10-2020-11-20-evaluating-and-interpreting-linear-regression-machine-learning)**
 
 ### Week 0 (2020-09-04): Introduction to the Course
 
@@ -114,7 +115,11 @@
 
 [[back to top]](#section-slides)
 
-### Week 10 (2020-11-20)
+### Week 10 (2020-11-20): Interpreting and Evaluating Linear Regression, Machine Learning
+
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-10)
+* [PDF Slides](Week_10_2020-11-20/Week_10.slides.pdf)
+* [Jupyter Notebook](Week_10_2020-11-20/Week_10.ipynb)
 
 [[back to top]](#section-slides)
 
