@@ -34,6 +34,7 @@
 * **[Week 8 (2020-11-06): Hypothesis Testing, Correlation vs. Causation](#week-8-2020-11-06-hypothesis-testing-correlation-vs-causation)**
 * **[Week 9 (2020-11-13): Linear Regression!](#week-9-2020-11-13-linear-regression)**
 * **[Week 10 (2020-11-20): Evaluating and Interpreting Linear Regression, Machine Learning](#week-10-2020-11-20-evaluating-and-interpreting-linear-regression-machine-learning)**
+* **[Week 11 (2020-12-04): Classification, Data Ethics](#week-11-2020-12-04-classification-data-ethics)**
 
 ### Week 0 (2020-09-04): Introduction to the Course
 
@@ -123,10 +124,6 @@
 
 [[back to top]](#section-slides)
 
-### Week 11 (2020-11-27)
-
-[[back to top]](#section-slides)
-
-### Week 12 (2020-12-04)
+### Week 11 (2020-12-04): Classification, Data Ethics
 
 [[back to top]](#section-slides)
