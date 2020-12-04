@@ -15,7 +15,6 @@
 
 * Wednesdays 5-6pm EDT
 * [Sign up for 15-minute slot here](https://calendar.google.com/calendar/u/0/selfsched?sstoken=UUJBNjZKVE5ubTJvfGRlZmF1bHR8ODI1ODMyODM3N2NlODc0Y2I5MjhlMmUxMzAzMjM1NDA)
-* [Zoom link](https://nyu.zoom.us/j/6821254378)
 
 **NOTE**: Please use the "Slideshow" link to follow along with the slides during sections. If the link is not working for whatever reason, you can follow along with the slides using the "Jupyter Notebook" link (since the slideshow is compiled from this Jupyter notebook).
 
@@ -34,7 +33,7 @@
 * **[Week 8 (2020-11-06): Hypothesis Testing, Correlation vs. Causation](#week-8-2020-11-06-hypothesis-testing-correlation-vs-causation)**
 * **[Week 9 (2020-11-13): Linear Regression!](#week-9-2020-11-13-linear-regression)**
 * **[Week 10 (2020-11-20): Evaluating and Interpreting Linear Regression, Machine Learning](#week-10-2020-11-20-evaluating-and-interpreting-linear-regression-machine-learning)**
-* **[Week 11 (2020-12-04): Classification, Data Ethics](#week-11-2020-12-04-classification-data-ethics)**
+* **[Week 11 (2020-12-04): Classification, Final Review](#week-11-2020-12-04-classification-final-review)**
 
 ### Week 0 (2020-09-04): Introduction to the Course
 
@@ -124,6 +123,10 @@
 
 [[back to top]](#section-slides)
 
-### Week 11 (2020-12-04): Classification, Data Ethics
+### Week 11 (2020-12-04): Classification, Final Review
+
+* [Slideshow](https://jjacobs.me/dsua111-sections/week-11)
+* [PDF Slides](Week_11_2020-12-04/Week_11.slides.pdf)
+* [Jupyter Notebook](Week_11_2020-12-04/Week_11.ipynb)
 
 [[back to top]](#section-slides)
